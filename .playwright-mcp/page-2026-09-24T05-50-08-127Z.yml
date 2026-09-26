@@ -1,0 +1,20 @@
+- generic [ref=f10e1]:
+  - heading [level=1]
+  - heading [level=2]
+  - generic [ref=f10e2]:
+    - main [ref=f10e4]:
+      - img "Realizaion" [ref=f10e5]
+    - main [ref=f10e10]:
+      - generic [ref=f10e11]:
+        - generic [ref=f10e12]: Concerto
+        - generic [ref=f10e13]: Project Planning & Execution
+      - generic [ref=f10e14]:
+        - generic [ref=f10e15]: Username
+        - textbox "Username" [active] [ref=f10e17]:
+          - /placeholder: Enter Username
+      - generic [ref=f10e18]:
+        - generic [ref=f10e19]: Password
+        - textbox "Password" [ref=f10e21]:
+          - /placeholder: "********"
+      - button "Log In" [ref=f10e23] [cursor=pointer]
+      - generic [ref=f10e24]: Concerto logon failed. Server might be down.

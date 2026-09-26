@@ -1,0 +1,495 @@
+- generic [ref=f1e1]:
+  - iframe [ref=f1e2]:
+    - generic [ref=f2e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f2e2]:
+        - table [ref=f2e3]:
+          - rowgroup [ref=f2e4]:
+            - row [ref=f2e5]:
+              - cell [ref=f2e6]:
+                - table [ref=f2e7]:
+                  - rowgroup [ref=f2e8]:
+                    - row [ref=f2e9]:
+                      - cell [ref=f2e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f2e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f2e13]:
+                - table [ref=f2e14]:
+                  - rowgroup [ref=f2e15]:
+                    - row [ref=f2e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f2e17]':
+                        - generic [ref=f2e18]:
+                          - generic [ref=f2e19]: "Username: ResAdmin"
+                          - generic [ref=f2e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f2e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f2e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f2e23]:
+          - rowgroup [ref=f2e24]:
+            - row [ref=f2e25]:
+              - cell [ref=f2e26]
+              - cell [ref=f2e27]:
+                - link "Full Kit Mgt" [ref=f2e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f2e29]:
+                - link "Task Mgt" [ref=f2e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f2e31]:
+                - link "Project Mgt" [ref=f2e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f2e33]:
+                - link "Resource Mgt" [ref=f2e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f2e35]:
+                - link "Executive" [ref=f2e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f2e37]:
+                - link "Program Mgt" [ref=f2e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f2e39]:
+                - link "Pipeline Mgt" [ref=f2e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f2e41]:
+                - link "Metrics" [ref=f2e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f2e43]:
+                - link "Buffer Diagnostics" [ref=f2e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f2e45]:
+                - link "P2P" [ref=f2e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f2e47]:
+                - link "Business Rules" [ref=f2e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f2e49]:
+                - link "Admin" [ref=f2e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f2e51]
+  - generic [ref=f1e3]:
+    - iframe [ref=f1e4]
+    - iframe [active] [ref=f1e5]:
+      - generic [ref=f4e1]:
+        - iframe [ref=f4e2]:
+          - table [ref=f6e2]:
+            - rowgroup [ref=f6e3]:
+              - row [ref=f6e4]:
+                - cell [ref=f6e5]:
+                  - table [ref=f6e6]:
+                    - rowgroup [ref=f6e7]:
+                      - row [ref=f6e8]:
+                        - cell [ref=f6e9]:
+                          - link "Full Kit Report" [ref=f6e11] [cursor=pointer]:
+                            - /url: TASKUPDT/FullKitTsklistscreen_frm.aspx
+                        - cell [ref=f6e12]:
+                          - link [ref=f6e13] [cursor=pointer]:
+                            - /url: /ConWeb/pdf/Concerto Full Kit Manager QRG.pdf
+                            - img "TaskMgt Help" [ref=f6e14]
+        - iframe [active] [ref=f4e3]:
+          - iframe [active] [ref=f7e2]:
+            - generic [active] [ref=f9e1]:
+              - generic [ref=f9e4]:
+                - generic [ref=f9e5]:
+                  - generic:
+                    - generic "Filters":
+                      - img [ref=f9e1764] [cursor=pointer]
+                - button [ref=f9e9] [cursor=pointer]:
+                  - img "Expand" [ref=f9e12]
+                - generic [ref=f9e14]:
+                  - generic [ref=f9e16]:
+                    - generic [ref=f9e17]:
+                      - generic [ref=f9e78]:
+                        - textbox "Search" [ref=f9e79]
+                        - button "Search"
+                      - generic [ref=f9e23]:
+                        - button [ref=f9e24] [cursor=pointer]:
+                          - img "Export to Excel" [ref=f9e25]
+                        - button [ref=f9e26] [cursor=pointer]:
+                          - img "Printer-Friendly Report" [ref=f9e27]
+                        - generic [ref=f9e1766]:
+                          - button "Previous page" [disabled] [ref=f9e1767]:
+                            - generic [ref=f9e1768]: ❮
+                          - button "Page 1 of 2" [ref=f9e1770] [cursor=pointer]
+                          - button "Next page" [ref=f9e1774] [cursor=pointer]:
+                            - generic [ref=f9e1775]: ❯
+                    - generic [ref=f9e91]:
+                      - generic [ref=f9e92] [cursor=pointer]:
+                        - generic [ref=f9e93]:
+                          - generic [ref=f9e94]: "60"
+                          - generic [ref=f9e95]: Full Kit Tasks due within 15 days
+                        - generic [ref=f9e97]:
+                          - generic [ref=f9e98]: 2 On time
+                          - generic [ref=f9e100]: 58 Delayed
+                      - generic [ref=f9e102] [cursor=pointer]:
+                        - generic [ref=f9e103]:
+                          - generic [ref=f9e104]: "0"
+                          - generic [ref=f9e105]: Full Kit Tasks due between 15-90 days
+                        - generic [ref=f9e107]:
+                          - generic [ref=f9e108]: 0 On time
+                          - generic [ref=f9e110]: 0 Delayed
+                      - generic [ref=f9e112] [cursor=pointer]:
+                        - generic [ref=f9e113]:
+                          - generic [ref=f9e114]: "0"
+                          - generic [ref=f9e115]: Full Kit Tasks due beyond 90 days
+                        - generic [ref=f9e117]:
+                          - generic [ref=f9e118]: 0 On time
+                          - generic [ref=f9e120]: 0 Delayed
+                  - generic [ref=f9e44]:
+                    - generic [ref=f9e1777]:
+                      - table [ref=f9e1781]:
+                        - rowgroup [ref=f9e1799]:
+                          - row [ref=f9e1800]:
+                            - cell "! Chris_Product Enhancement" [ref=f9e1801]:
+                              - generic [ref=f9e1802] [cursor=pointer]: "!"
+                              - button "Chris_Product Enhancement" [ref=f9e1804] [cursor=pointer]
+                            - cell "33" [ref=f9e1805]
+                            - cell "3" [ref=f9e1806]
+                            - cell "2" [ref=f9e1807]
+                            - cell [ref=f9e1808] [cursor=pointer]
+                            - cell "FK-Complete Full kit - SGen5-1200A(118/55) Product Enhancement Phase 2" [ref=f9e1810]
+                            - cell "PMO PE" [ref=f9e1811]
+                            - cell "aweber" [ref=f9e1812]
+                            - cell "0" [ref=f9e1813]
+                            - cell "4/22/2022" [ref=f9e1814]
+                            - cell "4/22/2022" [ref=f9e1815]
+                            - cell "1153" [ref=f9e1816]
+                            - cell [ref=f9e1817]
+                            - cell "PMO PE" [ref=f9e1818]
+                            - cell "+" [ref=f9e1819]
+                            - cell "+" [ref=f9e1820]
+                          - row [ref=f9e1822]:
+                            - cell [ref=f9e1823]:
+                              - button "T44_February_2019 2Tier" [ref=f9e1824] [cursor=pointer]
+                            - cell "299" [ref=f9e1825]
+                            - cell "1938" [ref=f9e1826]
+                            - cell "93" [ref=f9e1827]
+                            - cell [ref=f9e1828] [cursor=pointer]
+                            - cell "FK-For G0=Initial Assembly" [ref=f9e1830]
+                            - cell "Daniel.r.Simon" [ref=f9e1831]
+                            - cell "629 E&E, 629 Hub_Scheduler, DLA, P&E, PC, PS, QA" [ref=f9e1832]
+                            - cell "0" [ref=f9e1833]
+                            - cell "11/30/2022" [ref=f9e1834]
+                            - cell "11/30/2022" [ref=f9e1835]
+                            - cell "995" [ref=f9e1836]
+                            - cell [ref=f9e1837]
+                            - cell "x" [ref=f9e1838]
+                            - cell "x" [ref=f9e1839]
+                            - cell "+" [ref=f9e1840] [cursor=pointer]
+                          - row [ref=f9e1843]:
+                            - cell [ref=f9e1844]:
+                              - button "AutomationChainPanrlSelectionProject" [ref=f9e1845] [cursor=pointer]
+                            - cell "2764" [ref=f9e1846]
+                            - cell "1938" [ref=f9e1847]
+                            - cell "93" [ref=f9e1848]
+                            - cell [ref=f9e1849] [cursor=pointer]
+                            - cell "FK-For G0=Initial Assembly" [ref=f9e1851]
+                            - cell "Daniel.r.Simon" [ref=f9e1852]
+                            - cell "629 E&E, 629 Hub_Scheduler, DLA, P&E, PC, PS, QA" [ref=f9e1853]
+                            - cell "0" [ref=f9e1854]
+                            - cell "11/30/2022" [ref=f9e1855]
+                            - cell "11/30/2022" [ref=f9e1856]
+                            - cell "995" [ref=f9e1857]
+                            - cell [ref=f9e1858]
+                            - cell "x" [ref=f9e1859]
+                            - cell "x" [ref=f9e1860]
+                            - cell "+" [ref=f9e1861] [cursor=pointer]
+                          - row [ref=f9e1864]:
+                            - cell [ref=f9e1865]:
+                              - button "W9585 - 9917-11-100 2-Tier Example" [ref=f9e1866] [cursor=pointer]
+                            - cell "724" [ref=f9e1867]
+                            - cell "469" [ref=f9e1868]
+                            - cell "45" [ref=f9e1869]
+                            - cell [ref=f9e1870] [cursor=pointer]
+                            - cell "Full Kit for Assembly" [ref=f9e1872]
+                            - cell "ravi" [ref=f9e1873]
+                            - cell "ahafner" [ref=f9e1874]
+                            - cell "0" [ref=f9e1875]
+                            - cell "5/10/2023" [ref=f9e1876]
+                            - cell "6/23/2026" [ref=f9e1877]
+                            - cell "880" [ref=f9e1878]
+                            - cell [ref=f9e1879]
+                            - cell "+" [ref=f9e1880]
+                            - cell "+" [ref=f9e1882]
+                            - cell "+" [ref=f9e1884] [cursor=pointer]
+                          - row [ref=f9e1887]:
+                            - cell [ref=f9e1888]:
+                              - button "Example MRO Project" [ref=f9e1889] [cursor=pointer]
+                            - cell "895" [ref=f9e1890]
+                            - cell "510" [ref=f9e1891]
+                            - cell "200" [ref=f9e1892]
+                            - cell [ref=f9e1893] [cursor=pointer]
+                            - cell "FK-Assembly" [ref=f9e1895]
+                            - cell "+" [ref=f9e1896]
+                            - cell "+" [ref=f9e1899]
+                            - cell "50" [ref=f9e1902]
+                            - cell "7/17/2023" [ref=f9e1903]
+                            - cell "8/19/2026" [ref=f9e1904]
+                            - cell "803" [ref=f9e1905]
+                            - cell "8/18/2026" [ref=f9e1906]
+                            - cell "+" [ref=f9e1907]
+                            - cell "+" [ref=f9e1909]
+                            - cell "+" [ref=f9e1911] [cursor=pointer]
+                          - row [ref=f9e1914]:
+                            - cell "! Gama1" [ref=f9e1915]:
+                              - generic [ref=f9e1916] [cursor=pointer]: "!"
+                              - button "Gama1" [ref=f9e1918] [cursor=pointer]
+                            - cell "996" [ref=f9e1919]
+                            - cell "21" [ref=f9e1920]
+                            - cell "10" [ref=f9e1921]
+                            - cell [ref=f9e1922] [cursor=pointer]
+                            - cell "FK-Task" [ref=f9e1924]
+                            - cell "+" [ref=f9e1925]
+                            - cell "+" [ref=f9e1927]
+                            - cell "0" [ref=f9e1929]
+                            - cell "8/30/2023" [ref=f9e1930]
+                            - cell "8/30/2023" [ref=f9e1931]
+                            - cell "800" [ref=f9e1932]
+                            - cell [ref=f9e1933]
+                            - cell "+" [ref=f9e1934]
+                            - cell "+" [ref=f9e1935]
+                            - cell "+" [ref=f9e1936]
+                          - row [ref=f9e1938]:
+                            - cell [ref=f9e1939]:
+                              - button "REEL TEST" [ref=f9e1940] [cursor=pointer]
+                            - cell "1030" [ref=f9e1941]
+                            - cell "10" [ref=f9e1942]
+                            - cell "14" [ref=f9e1943]
+                            - cell [ref=f9e1944] [cursor=pointer]
+                            - 'cell "FK #1" [ref=f9e1946]'
+                            - cell "+" [ref=f9e1947]
+                            - cell "+" [ref=f9e1950]
+                            - cell "0" [ref=f9e1953]
+                            - cell "10/19/2023" [ref=f9e1954]
+                            - cell "10/19/2023" [ref=f9e1955]
+                            - cell "764" [ref=f9e1956]
+                            - cell [ref=f9e1957]
+                            - cell "+" [ref=f9e1958]
+                            - cell "+" [ref=f9e1960]
+                            - cell "+" [ref=f9e1962] [cursor=pointer]
+                          - row [ref=f9e1965]:
+                            - cell "! Chris Project 3" [ref=f9e1966]:
+                              - generic [ref=f9e1967] [cursor=pointer]: "!"
+                              - button "Chris Project 3" [ref=f9e1969] [cursor=pointer]
+                            - cell "995" [ref=f9e1970]
+                            - cell "15" [ref=f9e1971]
+                            - cell "12" [ref=f9e1972]
+                            - cell [ref=f9e1973] [cursor=pointer]
+                            - cell "FK-Task" [ref=f9e1975]
+                            - cell "+" [ref=f9e1976]
+                            - cell "+" [ref=f9e1978]
+                            - cell "0" [ref=f9e1980]
+                            - cell "10/20/2023" [ref=f9e1981]
+                            - cell "10/20/2023" [ref=f9e1982]
+                            - cell "763" [ref=f9e1983]
+                            - cell [ref=f9e1984]
+                            - cell "+" [ref=f9e1985]
+                            - cell "+" [ref=f9e1986]
+                            - cell "+" [ref=f9e1987]
+                          - row [ref=f9e1989]:
+                            - cell "! Test 9 Chris" [ref=f9e1990]:
+                              - generic [ref=f9e1991] [cursor=pointer]: "!"
+                              - button "Test 9 Chris" [ref=f9e1993] [cursor=pointer]
+                            - cell "1041" [ref=f9e1994]
+                            - cell "1" [ref=f9e1995]
+                            - cell "1" [ref=f9e1996]
+                            - cell [ref=f9e1997] [cursor=pointer]
+                            - cell "FK-Colección" [ref=f9e1999]
+                            - cell "+" [ref=f9e2000]
+                            - cell "SI (T)" [ref=f9e2002]
+                            - cell "0" [ref=f9e2003]
+                            - cell "10/27/2023" [ref=f9e2004]
+                            - cell "10/27/2023" [ref=f9e2005]
+                            - cell "758" [ref=f9e2006]
+                            - cell [ref=f9e2007]
+                            - cell "+" [ref=f9e2008]
+                            - cell "+" [ref=f9e2009]
+                            - cell "+" [ref=f9e2010]
+                          - row [ref=f9e2012]:
+                            - cell [ref=f9e2013]:
+                              - button "Test 2_Airnostrum" [ref=f9e2014] [cursor=pointer]
+                            - cell "1130" [ref=f9e2015]
+                            - cell "11" [ref=f9e2016]
+                            - cell "61" [ref=f9e2017]
+                            - cell [ref=f9e2018] [cursor=pointer]
+                            - cell "FK2" [ref=f9e2020]
+                            - cell "+" [ref=f9e2021]
+                            - cell "AOG, Engineering_Celula, Engineering_Motores, Engineering_Programas, Jefe de Equipo, Maintenance Planning, Material Planning, Shops" [ref=f9e2024]
+                            - cell "0" [ref=f9e2025]
+                            - cell "12/12/2023" [ref=f9e2026]
+                            - cell "8/21/2026" [ref=f9e2027]
+                            - cell "726" [ref=f9e2028]
+                            - cell [ref=f9e2029]
+                            - cell "+" [ref=f9e2030]
+                            - cell "+" [ref=f9e2032]
+                            - cell "+" [ref=f9e2034] [cursor=pointer]
+                          - row [ref=f9e2037]:
+                            - cell "! Test for Integration MRO" [ref=f9e2038]:
+                              - generic [ref=f9e2039] [cursor=pointer]: "!"
+                              - button "Test for Integration MRO" [ref=f9e2041] [cursor=pointer]
+                            - cell "1177" [ref=f9e2042]
+                            - cell "510" [ref=f9e2043]
+                            - cell "156" [ref=f9e2044]
+                            - cell [ref=f9e2045] [cursor=pointer]
+                            - cell "FK-Assembly" [ref=f9e2047]
+                            - cell "+" [ref=f9e2048]
+                            - cell "+" [ref=f9e2050]
+                            - cell "0" [ref=f9e2052]
+                            - cell "12/19/2023" [ref=f9e2053]
+                            - cell "12/19/2023" [ref=f9e2054]
+                            - cell "692" [ref=f9e2055]
+                            - cell [ref=f9e2056]
+                            - cell "+" [ref=f9e2057]
+                            - cell "+" [ref=f9e2058]
+                            - cell "+" [ref=f9e2059]
+                          - row [ref=f9e2061]:
+                            - cell "! PMI1 Template MANPOWER 5" [ref=f9e2062]:
+                              - generic [ref=f9e2063] [cursor=pointer]: "!"
+                              - button "PMI1 Template MANPOWER 5" [ref=f9e2065] [cursor=pointer]
+                            - cell "912" [ref=f9e2066]
+                            - cell "510" [ref=f9e2067]
+                            - cell "55" [ref=f9e2068]
+                            - cell [ref=f9e2069] [cursor=pointer]
+                            - cell "FK-Assembly" [ref=f9e2071]
+                            - cell "+" [ref=f9e2072]
+                            - cell "+" [ref=f9e2074]
+                            - cell "0" [ref=f9e2076]
+                            - cell "1/17/2024" [ref=f9e2077]
+                            - cell "1/17/2024" [ref=f9e2078]
+                            - cell "674" [ref=f9e2079]
+                            - cell [ref=f9e2080]
+                            - cell "+" [ref=f9e2081]
+                            - cell "+" [ref=f9e2082]
+                            - cell "+" [ref=f9e2083]
+                          - row [ref=f9e2085]:
+                            - cell [ref=f9e2086]:
+                              - button "TEST_Airnostrum" [ref=f9e2087] [cursor=pointer]
+                            - cell "1096" [ref=f9e2088]
+                            - cell "11" [ref=f9e2089]
+                            - cell "61" [ref=f9e2090]
+                            - cell [ref=f9e2091] [cursor=pointer]
+                            - cell "FK2" [ref=f9e2093]
+                            - cell "Jefe de Proyecto" [ref=f9e2094]
+                            - cell "AOG, Engineering_Celula, Engineering_Motores, Engineering_Programas, Jefe de Equipo, Maintenance Planning, Material Planning, Shops" [ref=f9e2095]
+                            - cell "0" [ref=f9e2096]
+                            - cell "1/19/2024" [ref=f9e2097]
+                            - cell "1/19/2024" [ref=f9e2098]
+                            - cell "698" [ref=f9e2099]
+                            - cell [ref=f9e2100]
+                            - cell "+" [ref=f9e2101]
+                            - cell "+" [ref=f9e2103]
+                            - cell "+" [ref=f9e2105] [cursor=pointer]
+                          - row [ref=f9e2108]:
+                            - cell "! V1 S07 169181 PMI-1_2024_1_24_10_2_47" [ref=f9e2109]:
+                              - generic [ref=f9e2110] [cursor=pointer]: "!"
+                              - button "V1 S07 169181 PMI-1_2024_1_24_10_2_47" [ref=f9e2112] [cursor=pointer]
+                            - cell "1184" [ref=f9e2113]
+                            - cell "502" [ref=f9e2114]
+                            - cell "1" [ref=f9e2115]
+                            - cell [ref=f9e2116] [cursor=pointer]
+                            - cell "FK- Pre-Induction" [ref=f9e2118]
+                            - cell "+" [ref=f9e2119]
+                            - cell "+" [ref=f9e2121]
+                            - cell "0" [ref=f9e2123]
+                            - cell "2/2/2024" [ref=f9e2124]
+                            - cell "2/2/2024" [ref=f9e2125]
+                            - cell "662" [ref=f9e2126]
+                            - cell [ref=f9e2127]
+                            - cell "+" [ref=f9e2128]
+                            - cell "+" [ref=f9e2129]
+                            - cell "+" [ref=f9e2130]
+                          - row [ref=f9e2132]:
+                            - cell [ref=f9e2133]:
+                              - button "V1 S07 169181 PMI-1_2024" [ref=f9e2134] [cursor=pointer]
+                            - cell "1189" [ref=f9e2135]
+                            - cell "502" [ref=f9e2136]
+                            - cell "1" [ref=f9e2137]
+                            - cell [ref=f9e2138] [cursor=pointer]
+                            - cell "FK- Pre-Induction" [ref=f9e2140]
+                            - cell "+" [ref=f9e2141]
+                            - cell "+" [ref=f9e2144]
+                            - cell "0" [ref=f9e2147]
+                            - cell "3/13/2024" [ref=f9e2148]
+                            - cell "3/13/2024" [ref=f9e2149]
+                            - cell "635" [ref=f9e2150]
+                            - cell [ref=f9e2151]
+                            - cell "+" [ref=f9e2152]
+                            - cell "+" [ref=f9e2154]
+                            - cell "+" [ref=f9e2156] [cursor=pointer]
+                          - row [ref=f9e2159]:
+                            - cell "! Test 9 Chris" [ref=f9e2160]:
+                              - generic [ref=f9e2161] [cursor=pointer]: "!"
+                              - button "Test 9 Chris" [ref=f9e2163] [cursor=pointer]
+                            - cell "1041" [ref=f9e2164]
+                            - cell "19" [ref=f9e2165]
+                            - cell "2" [ref=f9e2166]
+                            - cell [ref=f9e2167] [cursor=pointer]
+                            - cell "FK-PV Colección" [ref=f9e2169]
+                            - cell "+" [ref=f9e2170]
+                            - cell "Product SI (T), SI (T)" [ref=f9e2172]
+                            - cell "0" [ref=f9e2173]
+                            - cell "3/13/2024" [ref=f9e2174]
+                            - cell "3/13/2024" [ref=f9e2175]
+                            - cell "660" [ref=f9e2176]
+                            - cell [ref=f9e2177]
+                            - cell "+" [ref=f9e2178]
+                            - cell "+" [ref=f9e2179]
+                            - cell "+" [ref=f9e2180]
+                          - row [ref=f9e2182]:
+                            - cell "! V1 S07 169181 PMI-1_2024_1_24_10_2_47" [ref=f9e2183]:
+                              - generic [ref=f9e2184] [cursor=pointer]: "!"
+                              - button "V1 S07 169181 PMI-1_2024_1_24_10_2_47" [ref=f9e2186] [cursor=pointer]
+                            - cell "1184" [ref=f9e2187]
+                            - cell "510" [ref=f9e2188]
+                            - cell "34" [ref=f9e2189]
+                            - cell [ref=f9e2190] [cursor=pointer]
+                            - cell "FK-Assembly" [ref=f9e2192]
+                            - cell "+" [ref=f9e2193]
+                            - cell "+" [ref=f9e2195]
+                            - cell "0" [ref=f9e2197]
+                            - cell "3/19/2024" [ref=f9e2198]
+                            - cell "3/19/2024" [ref=f9e2199]
+                            - cell "631" [ref=f9e2200]
+                            - cell [ref=f9e2201]
+                            - cell "+" [ref=f9e2202]
+                            - cell "+" [ref=f9e2203]
+                            - cell "+" [ref=f9e2204]
+                      - table [ref=f9e2209]:
+                        - rowgroup [ref=f9e2227]:
+                          - row [ref=f9e2228]:
+                            - columnheader "Project Name" [ref=f9e2229] [cursor=pointer]
+                            - columnheader "Project UID" [ref=f9e2233] [cursor=pointer]
+                            - columnheader "Full Kit UID" [ref=f9e2237] [cursor=pointer]
+                            - columnheader "MSP ID" [ref=f9e2241] [cursor=pointer]
+                            - columnheader "" [ref=f9e2245] [cursor=pointer]
+                            - columnheader "Full Kit Name" [ref=f9e2249] [cursor=pointer]
+                            - columnheader "Full Kit Mgr" [ref=f9e2253] [cursor=pointer]
+                            - columnheader "Participants" [ref=f9e2257] [cursor=pointer]
+                            - columnheader "Percent Complete" [ref=f9e2261] [cursor=pointer]
+                            - columnheader "Due Date ▲" [ref=f9e2265] [cursor=pointer]:
+                              - generic [ref=f9e2267]:
+                                - generic [ref=f9e2268]: Due Date
+                                - generic: ▲
+                            - columnheader "Expected Finish" [ref=f9e2269] [cursor=pointer]
+                            - columnheader "Delay (d)" [ref=f9e2273] [cursor=pointer]
+                            - columnheader "Release Date" [ref=f9e2277] [cursor=pointer]
+                            - 'columnheader "Work order #" [ref=f9e2281] [cursor=pointer]'
+                            - columnheader "RZ Reference" [ref=f9e2285] [cursor=pointer]
+                            - columnheader "Help Needed" [ref=f9e2289] [cursor=pointer]
+                        - rowgroup
+                      - generic [ref=f9e2293]:
+                        - generic:
+                          - generic:
+                            - table:
+                              - rowgroup:
+                                - row
+                              - rowgroup
+                      - generic [ref=f9e2294]:
+                        - generic:
+                          - generic:
+                            - table:
+                              - rowgroup
+                    - generic [ref=f9e74]:
+                      - heading [level=4]
+              - tooltip [ref=f9e2295]
+              - textbox [ref=f9e2296]

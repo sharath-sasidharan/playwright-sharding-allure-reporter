@@ -1,0 +1,519 @@
+- generic [ref=f1e1]:
+  - iframe [ref=f1e2]:
+    - generic [ref=f2e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f2e2]:
+        - table [ref=f2e3]:
+          - rowgroup [ref=f2e4]:
+            - row [ref=f2e5]:
+              - cell [ref=f2e6]:
+                - table [ref=f2e7]:
+                  - rowgroup [ref=f2e8]:
+                    - row [ref=f2e9]:
+                      - cell [ref=f2e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f2e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f2e13]:
+                - table [ref=f2e14]:
+                  - rowgroup [ref=f2e15]:
+                    - row [ref=f2e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f2e17]':
+                        - generic [ref=f2e18]:
+                          - generic [ref=f2e19]: "Username: ResAdmin"
+                          - generic [ref=f2e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f2e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f2e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f2e23]:
+          - rowgroup [ref=f2e24]:
+            - row [ref=f2e25]:
+              - cell [ref=f2e26]
+              - cell [ref=f2e27]:
+                - link "Full Kit Mgt" [ref=f2e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f2e29]:
+                - link "Task Mgt" [ref=f2e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f2e31]:
+                - link "Project Mgt" [ref=f2e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f2e33]:
+                - link "Resource Mgt" [ref=f2e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f2e35]:
+                - link "Executive" [ref=f2e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f2e37]:
+                - link "Program Mgt" [ref=f2e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f2e39]:
+                - link "Pipeline Mgt" [ref=f2e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f2e41]:
+                - link "Metrics" [ref=f2e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f2e43]:
+                - link "Buffer Diagnostics" [ref=f2e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f2e45]:
+                - link "P2P" [ref=f2e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f2e47]:
+                - link "Business Rules" [ref=f2e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f2e49]:
+                - link "Admin" [ref=f2e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f2e51]
+  - generic [ref=f1e3]:
+    - iframe [ref=f1e4]
+    - iframe [active] [ref=f1e5]:
+      - generic [ref=f4e1]:
+        - iframe [active] [ref=f4e2]:
+          - table [ref=f6e2]:
+            - rowgroup [ref=f6e3]:
+              - row [ref=f6e4]:
+                - cell [ref=f6e5]:
+                  - table [ref=f6e6]:
+                    - rowgroup [ref=f6e7]:
+                      - row [ref=f6e8]:
+                        - cell [ref=f6e9]:
+                          - generic [ref=f6e10]:
+                            - link "View Resource L:C" [ref=f6e11] [cursor=pointer]:
+                              - /url: resmgr/rmphtml_frm.aspx
+                            - link "Escalated Tasks" [ref=f6e12] [cursor=pointer]:
+                              - /url: gridrpt/StuckTask_frm.aspx
+                            - link "Task List" [ref=f6e13] [cursor=pointer]:
+                              - /url: taskupdt/tasklistscreen_frm.aspx
+                            - link "Assign Task Mgrs" [ref=f6e14] [cursor=pointer]:
+                              - /url: taskupdt/TaskManagerAssignments.aspx
+                            - link "Flow Trend by Task Count" [ref=f6e15] [cursor=pointer]:
+                              - /url: javascript:displayFlowTrend(true)
+                            - link "Flow Trend by Resource Load" [ref=f6e16] [cursor=pointer]:
+                              - /url: javascript:displayFlowTrend(false)
+                            - link "Global Resource File" [active] [ref=f6e17] [cursor=pointer]:
+                              - /url: resmgr/rmrpt.aspx
+                            - link "Resource Needs" [ref=f6e18] [cursor=pointer]:
+                              - /url: resmgr/rrrpt.aspx
+                            - link "Sand Chart" [ref=f6e19] [cursor=pointer]:
+                              - /url: resmgr/ResourceSandChart.aspx
+                        - cell
+                        - cell [ref=f6e20]:
+                          - link [ref=f6e21] [cursor=pointer]:
+                            - /url: /ConWeb/pdf/Concerto Resource Manager QRG.pdf
+                            - img "Resource Portal Help" [ref=f6e22]
+        - iframe [ref=f4e3]:
+          - generic [ref=f7e1]:
+            - iframe [ref=f7e2]:
+              - table [ref=f11e3]:
+                - rowgroup [ref=f11e4]:
+                  - row [ref=f11e5]:
+                    - cell [ref=f11e6]
+                    - cell [ref=f11e7]
+                    - cell "Division" [ref=f11e8]
+                    - cell "9WOOD" [ref=f11e9]:
+                      - combobox "Division" [ref=f11e10]:
+                        - option "9WOOD" [selected]
+                        - option "ATAL"
+                        - option "CENTURION"
+                        - option "CMG TEST"
+                        - option "COHU"
+                        - option "COOKMEDICAL"
+                        - option "CVCS"
+                        - option "DEFAULT"
+                        - option "DEV"
+                        - option "EVAL"
+                        - option "F5"
+                        - option "FLYINGLOGIC"
+                        - option "FRCE"
+                        - option "FRCSE"
+                        - option "FRCSETEST"
+                        - option "GOLDRATTUK"
+                        - option "HALIO"
+                        - option "HB"
+                        - option "IDF"
+                        - option "IMPLEMENTATIONS"
+                        - option "L AND T DEMO"
+                        - option "LAYTON"
+                        - option "MICROSTEP"
+                        - option "NAVSEA"
+                        - option "P3"
+                        - option "PCA"
+                        - option "PH_LOCAL"
+                        - option "PIPELINE"
+                        - option "PRA"
+                        - option "PRES HELO"
+                        - option "PROJECT CONTROL"
+                        - option "QATAR"
+                        - option "RAYSTEST"
+                        - option "RCPI"
+                        - option "REEL ALESA"
+                        - option "ROYAL"
+                        - option "SE"
+                        - option "SIEMENS GEN"
+                        - option "SIEMENS PARENT"
+                        - option "SIEMENS POWER"
+                        - option "SIEMENS TURB"
+                        - option "SPEARHEAD"
+                        - option "SUPPLYCHAINPARTNER"
+                        - option "SYNERGIC"
+                        - option "ZIM"
+                    - cell [ref=f11e11]
+                    - cell [ref=f11e12]:
+                      - button "Modify Calendars" [ref=f11e13] [cursor=pointer]
+            - iframe [ref=f7e3]:
+              - generic [ref=f12e2]:
+                - table [ref=f12e3]:
+                  - rowgroup [ref=f12e4]:
+                    - row [ref=f12e5]:
+                      - columnheader [ref=f12e6]:
+                        - link "Resource Name" [ref=f12e7] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=0&sort=D-RESOURCE_NAME&')
+                        - img "Sort Ascending" [ref=f12e8]
+                      - columnheader [ref=f12e9]:
+                        - link "Group" [ref=f12e10] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=1&sort=A-GROUP&')
+                      - columnheader [ref=f12e11]:
+                        - link "Resource Mgr" [ref=f12e12] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=2&sort=D-RESOURCE_MANAGER_ID&')
+                      - columnheader [ref=f12e13]:
+                        - link "Total Units" [ref=f12e14] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=3&sort=A-TOTAL_UNITS&')
+                      - columnheader [ref=f12e15]:
+                        - link "Reserve Units" [ref=f12e16] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=4&sort=A-PROTECTIVE_CAP&')
+                      - columnheader [ref=f12e17]:
+                        - link "Is Virtual" [ref=f12e18] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=5&sort=A-IS_VIRTUAL&')
+                      - columnheader [ref=f12e19]:
+                        - link "Base Calendar" [ref=f12e20] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=6&sort=A-BASE_CALENDAR_NAME&')
+                      - columnheader [ref=f12e21]:
+                        - link "Exceptions" [ref=f12e22] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=7&sort=A-EXCEPTIONS&')
+                      - columnheader [ref=f12e23]:
+                        - link "Alternate Resource Mgr" [ref=f12e24] [cursor=pointer]:
+                          - /url: javascript:sortReport('../resmgr/rmrptlst.aspx?col=8&sort=A-ALT_RESOURCE_MANAGER_ID&')
+                  - rowgroup [ref=f12e25]:
+                    - row [ref=f12e26]:
+                      - cell [ref=f12e27]:
+                        - textbox [ref=f12e28]: Default
+                      - cell [ref=f12e29]:
+                        - combobox [ref=f12e30]:
+                          - option [selected]
+                      - cell [ref=f12e31]:
+                        - combobox [ref=f12e32]:
+                          - option
+                          - option "Abhinandan Bansal"
+                          - option "Alan Hafner"
+                          - option "AutomationRestrictedUser"
+                          - option "Andrea Weber"
+                          - option "Brian Kelly"
+                          - option "Barry Scott"
+                          - option "Christo Wentzel"
+                          - option "Chris Timmer"
+                          - option "Dan Russell"
+                          - option "Deepak Jha"
+                          - option "Erika Marais"
+                          - option "evalresadmin"
+                          - option "Gama"
+                          - option "Guy Brill"
+                          - option "Headphone"
+                          - option "Headphone1"
+                          - option "Jayce Thompson"
+                          - option "Javier Jesús Jerez"
+                          - option "Joe Pearce"
+                          - option "Fiallos"
+                          - option "Jack Vinson"
+                          - option "Kobus van der Zel"
+                          - option "Laura Stanton"
+                          - option "Manuel Alloza"
+                          - option "Manju"
+                          - option "Matthew Coury"
+                          - option "Medical Writing - Mgr"
+                          - option "Michael Hamlin"
+                          - option "mlee"
+                          - option "Manuel Rodriguez"
+                          - option "Martin Scabo"
+                          - option "NavSea"
+                          - option "PM"
+                          - option "PM2"
+                          - option "Pavel Pavlov"
+                          - option "ProjectManager1"
+                          - option "ProjectParticipant"
+                          - option "Rachael Critchfield"
+                          - option "Concerto Admin"
+                          - option "ResAdmin1"
+                          - option "ResAdmin2"
+                          - option "ResAdmin3"
+                          - option "Resource Manager"
+                          - option "TaskManager"
+                          - option "TaskTeamM1"
+                          - option "TaskTeamM2"
+                          - option "test"
+                          - option "test1"
+                          - option "test2"
+                          - option "TestUser"
+                          - option "Tier1TaskManager"
+                          - option "Tier2TaskManager"
+                          - option "taskManager"
+                          - option "tmuser"
+                          - option "Tammara Parsons"
+                          - option "user1"
+                          - option "Vikram Tapikar"
+                          - option "Witold Wisniewski"
+                          - option "Wojciech Duda"
+                          - option [selected]
+                      - cell [ref=f12e33]:
+                        - textbox [ref=f12e34]: "1"
+                      - cell [ref=f12e35]:
+                        - textbox [ref=f12e36]: "0"
+                      - cell [ref=f12e37]:
+                        - checkbox [ref=f12e38]
+                      - cell "Standard" [ref=f12e39]:
+                        - combobox [ref=f12e40]:
+                          - option "Standard" [selected]
+                      - cell [ref=f12e41]:
+                        - table [ref=f12e42]:
+                          - rowgroup [ref=f12e43]:
+                            - row [ref=f12e44]:
+                              - cell [ref=f12e45]:
+                                - generic:
+                                  - table
+                              - cell [ref=f12e46]:
+                                - table [ref=f12e47]:
+                                  - rowgroup [ref=f12e48]:
+                                    - row [ref=f12e49]:
+                                      - cell [ref=f12e50]
+                                      - cell [ref=f12e51]:
+                                        - img [ref=f12e52] [cursor=pointer]
+                      - cell [ref=f12e53]:
+                        - combobox [ref=f12e54]:
+                          - option
+                          - option "Abhinandan Bansal"
+                          - option "Alan Hafner"
+                          - option "AutomationRestrictedUser"
+                          - option "Andrea Weber"
+                          - option "Brian Kelly"
+                          - option "Barry Scott"
+                          - option "Christo Wentzel"
+                          - option "Chris Timmer"
+                          - option "Dan Russell"
+                          - option "Deepak Jha"
+                          - option "Erika Marais"
+                          - option "evalresadmin"
+                          - option "Gama"
+                          - option "Guy Brill"
+                          - option "Headphone"
+                          - option "Headphone1"
+                          - option "Jayce Thompson"
+                          - option "Javier Jesús Jerez"
+                          - option "Joe Pearce"
+                          - option "Fiallos"
+                          - option "Jack Vinson"
+                          - option "Kobus van der Zel"
+                          - option "Laura Stanton"
+                          - option "Manuel Alloza"
+                          - option "Manju"
+                          - option "Matthew Coury"
+                          - option "Medical Writing - Mgr"
+                          - option "Michael Hamlin"
+                          - option "mlee"
+                          - option "Manuel Rodriguez"
+                          - option "Martin Scabo"
+                          - option "NavSea"
+                          - option "PM"
+                          - option "PM2"
+                          - option "Pavel Pavlov"
+                          - option "ProjectManager1"
+                          - option "ProjectParticipant"
+                          - option "Rachael Critchfield"
+                          - option "Concerto Admin"
+                          - option "ResAdmin1"
+                          - option "ResAdmin2"
+                          - option "ResAdmin3"
+                          - option "Resource Manager"
+                          - option "TaskManager"
+                          - option "TaskTeamM1"
+                          - option "TaskTeamM2"
+                          - option "test"
+                          - option "test1"
+                          - option "test2"
+                          - option "TestUser"
+                          - option "Tier1TaskManager"
+                          - option "Tier2TaskManager"
+                          - option "taskManager"
+                          - option "tmuser"
+                          - option "Tammara Parsons"
+                          - option "user1"
+                          - option "Vikram Tapikar"
+                          - option "Witold Wisniewski"
+                          - option "Wojciech Duda"
+                          - option [selected]
+                  - rowgroup [ref=f12e55]:
+                    - row [ref=f12e56]:
+                      - cell [ref=f12e57]:
+                        - textbox [ref=f12e58]: Phase 1
+                      - cell [ref=f12e59]:
+                        - combobox [ref=f12e60]:
+                          - option [selected]
+                      - cell [ref=f12e61]:
+                        - combobox [ref=f12e62]:
+                          - option
+                          - option "Abhinandan Bansal"
+                          - option "Alan Hafner"
+                          - option "AutomationRestrictedUser"
+                          - option "Andrea Weber"
+                          - option "Brian Kelly"
+                          - option "Barry Scott"
+                          - option "Christo Wentzel"
+                          - option "Chris Timmer"
+                          - option "Dan Russell"
+                          - option "Deepak Jha"
+                          - option "Erika Marais"
+                          - option "evalresadmin"
+                          - option "Gama"
+                          - option "Guy Brill"
+                          - option "Headphone"
+                          - option "Headphone1"
+                          - option "Jayce Thompson"
+                          - option "Javier Jesús Jerez"
+                          - option "Joe Pearce"
+                          - option "Fiallos"
+                          - option "Jack Vinson"
+                          - option "Kobus van der Zel"
+                          - option "Laura Stanton"
+                          - option "Manuel Alloza"
+                          - option "Manju"
+                          - option "Matthew Coury"
+                          - option "Medical Writing - Mgr"
+                          - option "Michael Hamlin"
+                          - option "mlee"
+                          - option "Manuel Rodriguez"
+                          - option "Martin Scabo"
+                          - option "NavSea"
+                          - option "PM"
+                          - option "PM2"
+                          - option "Pavel Pavlov"
+                          - option "ProjectManager1"
+                          - option "ProjectParticipant"
+                          - option "Rachael Critchfield"
+                          - option "Concerto Admin"
+                          - option "ResAdmin1"
+                          - option "ResAdmin2"
+                          - option "ResAdmin3"
+                          - option "Resource Manager"
+                          - option "TaskManager"
+                          - option "TaskTeamM1"
+                          - option "TaskTeamM2"
+                          - option "test"
+                          - option "test1"
+                          - option "test2"
+                          - option "TestUser"
+                          - option "Tier1TaskManager"
+                          - option "Tier2TaskManager"
+                          - option "taskManager"
+                          - option "tmuser"
+                          - option "Tammara Parsons"
+                          - option "user1"
+                          - option "Vikram Tapikar"
+                          - option "Witold Wisniewski"
+                          - option "Wojciech Duda"
+                          - option [selected]
+                      - cell [ref=f12e63]:
+                        - textbox [ref=f12e64]: "1"
+                      - cell [ref=f12e65]:
+                        - textbox [ref=f12e66]: "0"
+                      - cell [ref=f12e67]:
+                        - checkbox [checked] [ref=f12e68]
+                      - cell "Standard" [ref=f12e69]:
+                        - combobox [ref=f12e70]:
+                          - option "Standard" [selected]
+                      - cell [ref=f12e71]:
+                        - table [ref=f12e72]:
+                          - rowgroup [ref=f12e73]:
+                            - row [ref=f12e74]:
+                              - cell [ref=f12e75]:
+                                - generic:
+                                  - table
+                              - cell [ref=f12e76]:
+                                - table [ref=f12e77]:
+                                  - rowgroup [ref=f12e78]:
+                                    - row [ref=f12e79]:
+                                      - cell [ref=f12e80]
+                                      - cell [ref=f12e81]:
+                                        - img [ref=f12e82] [cursor=pointer]
+                      - cell [ref=f12e83]:
+                        - combobox [ref=f12e84]:
+                          - option
+                          - option "Abhinandan Bansal"
+                          - option "Alan Hafner"
+                          - option "AutomationRestrictedUser"
+                          - option "Andrea Weber"
+                          - option "Brian Kelly"
+                          - option "Barry Scott"
+                          - option "Christo Wentzel"
+                          - option "Chris Timmer"
+                          - option "Dan Russell"
+                          - option "Deepak Jha"
+                          - option "Erika Marais"
+                          - option "evalresadmin"
+                          - option "Gama"
+                          - option "Guy Brill"
+                          - option "Headphone"
+                          - option "Headphone1"
+                          - option "Jayce Thompson"
+                          - option "Javier Jesús Jerez"
+                          - option "Joe Pearce"
+                          - option "Fiallos"
+                          - option "Jack Vinson"
+                          - option "Kobus van der Zel"
+                          - option "Laura Stanton"
+                          - option "Manuel Alloza"
+                          - option "Manju"
+                          - option "Matthew Coury"
+                          - option "Medical Writing - Mgr"
+                          - option "Michael Hamlin"
+                          - option "mlee"
+                          - option "Manuel Rodriguez"
+                          - option "Martin Scabo"
+                          - option "NavSea"
+                          - option "PM"
+                          - option "PM2"
+                          - option "Pavel Pavlov"
+                          - option "ProjectManager1"
+                          - option "ProjectParticipant"
+                          - option "Rachael Critchfield"
+                          - option "Concerto Admin"
+                          - option "ResAdmin1"
+                          - option "ResAdmin2"
+                          - option "ResAdmin3"
+                          - option "Resource Manager"
+                          - option "TaskManager"
+                          - option "TaskTeamM1"
+                          - option "TaskTeamM2"
+                          - option "test"
+                          - option "test1"
+                          - option "test2"
+                          - option "TestUser"
+                          - option "Tier1TaskManager"
+                          - option "Tier2TaskManager"
+                          - option "taskManager"
+                          - option "tmuser"
+                          - option "Tammara Parsons"
+                          - option "user1"
+                          - option "Vikram Tapikar"
+                          - option "Witold Wisniewski"
+                          - option "Wojciech Duda"
+                          - option [selected]
+                - table [ref=f12e85]:
+                  - rowgroup [ref=f12e86]:
+                    - row [ref=f12e87]:
+                      - cell [ref=f12e88]:
+                        - button "Update" [ref=f12e89] [cursor=pointer]
+                        - button "Add Resource" [ref=f12e90] [cursor=pointer]
+                        - button "Delete Resource" [ref=f12e91] [cursor=pointer]
+                      - cell [ref=f12e92]:
+                        - button "Sync Base Calendars" [ref=f12e93] [cursor=pointer]

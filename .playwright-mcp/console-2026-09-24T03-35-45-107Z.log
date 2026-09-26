@@ -1,0 +1,20 @@
+[    2533ms] [LOG] O @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    2872ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://installera2.realization.com/favicon.ico:0
+[    3873ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    3918ms] [WARNING] Operation logs not saved: missing userID {projectID: -1, userID: undefined} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    3923ms] [LOG] O @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    3955ms] [LOG] O @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    5323ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    5328ms] [LOG] loading filter api loading... {Data: Object, Errors: Array(0), LogInfo: null, Metrics: Object, ReturnTypeCode: 1} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    5685ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    6391ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    6415ms] [LOG] Setting invalid tasks with old props {} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    7728ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    8162ms] [LOG] Setting invalid tasks with old props {} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    8175ms] [LOG] checkoutProjectFromServer {Data: Object, Errors: Array(0), LogInfo: null, Metrics: Object, ReturnTypeCode: 1} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    8176ms] [LOG] End of calling checkoutproject project API: 09:05:53 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    8598ms] [WARNING] Deprecation warning: use moment.updateLocale(localeName, config) to change an existing locale. moment.defineLocale(localeName, config) should only be used for creating a new locale See http://momentjs.com/guides/#/warnings/define-locale/ for more info. @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    9218ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    9246ms] [LOG] Division Name in Load SPI Project  @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    9246ms] [LOG] Time to convert from SPI DS to Gantt DS: 2 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[    9589ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1

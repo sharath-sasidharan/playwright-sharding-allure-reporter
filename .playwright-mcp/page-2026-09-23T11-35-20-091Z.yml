@@ -1,0 +1,559 @@
+- generic [ref=f7e1]:
+  - iframe [ref=f7e2]:
+    - generic [ref=f8e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f8e2]:
+        - table [ref=f8e3]:
+          - rowgroup [ref=f8e4]:
+            - row [ref=f8e5]:
+              - cell [ref=f8e6]:
+                - table [ref=f8e7]:
+                  - rowgroup [ref=f8e8]:
+                    - row [ref=f8e9]:
+                      - cell [ref=f8e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f8e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f8e13]:
+                - table [ref=f8e14]:
+                  - rowgroup [ref=f8e15]:
+                    - row [ref=f8e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f8e17]':
+                        - generic [ref=f8e18]:
+                          - generic [ref=f8e19]: "Username: ResAdmin"
+                          - generic [ref=f8e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f8e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f8e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f8e23]:
+          - rowgroup [ref=f8e24]:
+            - row [ref=f8e25]:
+              - cell [ref=f8e26]
+              - cell [ref=f8e27]:
+                - link "Full Kit Mgt" [ref=f8e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f8e29]:
+                - link "Task Mgt" [ref=f8e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f8e31]:
+                - link "Project Mgt" [ref=f8e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f8e33]:
+                - link "Resource Mgt" [ref=f8e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f8e35]:
+                - link "Executive" [ref=f8e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f8e37]:
+                - link "Program Mgt" [ref=f8e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f8e39]:
+                - link "Pipeline Mgt" [ref=f8e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f8e41]:
+                - link "Metrics" [ref=f8e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f8e43]:
+                - link "Buffer Diagnostics" [ref=f8e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f8e45]:
+                - link "P2P" [ref=f8e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f8e47]:
+                - link "Business Rules" [ref=f8e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f8e49]:
+                - link "Admin" [ref=f8e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f8e51]
+  - generic [ref=f7e3]:
+    - iframe [ref=f7e4]
+    - iframe [active] [ref=f7e5]:
+      - generic [ref=f10e1]:
+        - iframe [ref=f10e2]:
+          - generic [ref=f16e1]:
+            - heading [level=1]
+            - heading [level=2]
+            - main [ref=f16e2]:
+              - table [ref=f16e3]:
+                - rowgroup [ref=f16e4]:
+                  - row [ref=f16e5]:
+                    - cell [ref=f16e6]:
+                      - table [ref=f16e7]:
+                        - rowgroup [ref=f16e8]:
+                          - row [ref=f16e9]:
+                            - cell [ref=f16e10]:
+                              - generic [ref=f16e11]:
+                                - link "Task List" [ref=f16e12] [cursor=pointer]:
+                                  - /url: taskupdt/tasklistscreen_frm.aspx
+                                - link "Subtask List" [ref=f16e13] [cursor=pointer]:
+                                  - /url: taskupdt/tasklistscreen_frm.aspx?loadSubtaskKanban=1
+                            - cell [ref=f16e14]:
+                              - link [ref=f16e15] [cursor=pointer]:
+                                - /url: /ConWeb/pdf/Concerto Task Manager QRG.pdf
+                                - img "TaskMgt Help" [ref=f16e16]
+        - iframe [active] [ref=f10e3]:
+          - iframe [active] [ref=f17e2]:
+            - generic [active] [ref=f19e1]:
+              - generic [ref=f19e16]:
+                - img "Filters" [ref=f19e21] [cursor=pointer]
+                - generic [ref=f19e26]:
+                  - generic [ref=f19e27]: Quick Access
+                  - generic [ref=f19e36]:
+                    - button "Refresh" [ref=f19e40] [cursor=pointer]
+                    - button "Run BM Run BM" [ref=f19e48] [cursor=pointer]:
+                      - generic [ref=f19e49]:
+                        - img "Run BM" [ref=f19e51]
+                        - generic [ref=f19e52]: Run BM
+                - generic [ref=f19e55]:
+                  - generic [ref=f19e58]:
+                    - generic [ref=f19e60]:
+                      - button "Red Tasks - 2516" [ref=f19e61] [cursor=pointer]
+                      - button "Help Needed Tasks - 4" [ref=f19e64] [cursor=pointer]
+                      - button "Ready to Start Tasks - 263" [ref=f19e67] [cursor=pointer]
+                      - button "Upcoming Tasks - 3787" [ref=f19e70] [cursor=pointer]
+                    - textbox "Search" [ref=f19e77]
+                    - generic [ref=f19e79]:
+                      - generic "Export To Excel 2003 or Higher" [ref=f19e80] [cursor=pointer]:
+                        - img "Export to Excel" [ref=f19e81]
+                      - generic "Display Printer Friendly" [ref=f19e82] [cursor=pointer]:
+                        - img "Print" [ref=f19e83]
+                      - generic "Batch Print" [ref=f19e84] [cursor=pointer]:
+                        - img "Batch Print" [ref=f19e85]
+                      - button "Page 1 of 270" [ref=f19e90] [cursor=pointer]
+                      - generic [ref=f19e92] [cursor=pointer]
+                  - generic [ref=f19e95]:
+                    - heading [level=4]
+                - generic [ref=f19e102]:
+                  - generic [ref=f19e103]:
+                    - table [ref=f19e107]:
+                      - rowgroup [ref=f19e126]:
+                        - row [ref=f19e127]:
+                          - cell [ref=f19e128]
+                          - cell [ref=f19e131]
+                          - cell "Efi" [ref=f19e132]
+                          - cell "! ACE Execution" [ref=f19e133]:
+                            - generic [ref=f19e134] [cursor=pointer]: "!"
+                            - text: ACE Execution
+                          - cell "11" [ref=f19e136]
+                          - cell "Develop MC HLD" [ref=f19e137]
+                          - cell "System Engineer" [ref=f19e139]
+                          - cell "1/3/2023 | Y" [ref=f19e140]:
+                            - generic [ref=f19e141]:
+                              - generic [ref=f19e142]: 1/3/2023
+                              - generic [ref=f19e143]: "|"
+                              - generic [ref=f19e144] [cursor=pointer]: "Y"
+                          - cell "+" [ref=f19e145]
+                          - cell "IP" [ref=f19e147]
+                          - cell "2 days" [ref=f19e149]
+                          - cell "5/15/2022" [ref=f19e150]
+                          - cell [ref=f19e151]
+                          - cell "+" [ref=f19e152]
+                          - cell "+" [ref=f19e154]
+                          - cell "Guy Brill" [ref=f19e156]
+                        - row [ref=f19e157]:
+                          - cell [ref=f19e158]
+                          - cell [ref=f19e161]
+                          - cell "+" [ref=f19e162]
+                          - cell "! ACE Execution" [ref=f19e164]:
+                            - generic [ref=f19e165] [cursor=pointer]: "!"
+                            - text: ACE Execution
+                          - cell "34" [ref=f19e167]
+                          - cell "Develop FTER HLD" [ref=f19e168]
+                          - cell "System Engineer" [ref=f19e170]
+                          - cell "1/3/2023 | Y" [ref=f19e171]:
+                            - generic [ref=f19e172]:
+                              - generic [ref=f19e173]: 1/3/2023
+                              - generic [ref=f19e174]: "|"
+                              - generic [ref=f19e175] [cursor=pointer]: "Y"
+                          - cell "+" [ref=f19e176]
+                          - cell "IP" [ref=f19e178]
+                          - cell "2 days" [ref=f19e180]
+                          - cell "5/15/2022" [ref=f19e181]
+                          - cell [ref=f19e182]
+                          - cell "+" [ref=f19e183]
+                          - cell "+" [ref=f19e185]
+                          - cell "Guy Brill" [ref=f19e187]
+                        - row [ref=f19e188]:
+                          - cell [ref=f19e189]
+                          - cell [ref=f19e192]
+                          - cell "+" [ref=f19e193]
+                          - cell "! ACE Execution" [ref=f19e195]:
+                            - generic [ref=f19e196] [cursor=pointer]: "!"
+                            - text: ACE Execution
+                          - cell "374" [ref=f19e198]
+                          - cell "Develop GTER HLD" [ref=f19e199]
+                          - cell "System Engineer" [ref=f19e201]
+                          - cell "1/3/2023 | Y" [ref=f19e202]:
+                            - generic [ref=f19e203]:
+                              - generic [ref=f19e204]: 1/3/2023
+                              - generic [ref=f19e205]: "|"
+                              - generic [ref=f19e206] [cursor=pointer]: "Y"
+                          - cell "+" [ref=f19e207]
+                          - cell "IP" [ref=f19e209]
+                          - cell "2 days" [ref=f19e211]
+                          - cell "5/15/2022" [ref=f19e212]
+                          - cell [ref=f19e213]
+                          - cell "+" [ref=f19e214]
+                          - cell "+" [ref=f19e216]
+                          - cell "Guy Brill" [ref=f19e218]
+                        - row [ref=f19e219]:
+                          - cell [ref=f19e220]
+                          - cell [ref=f19e223]
+                          - cell "+" [ref=f19e224]
+                          - cell "! Chris Project 3" [ref=f19e226]:
+                            - generic [ref=f19e227] [cursor=pointer]: "!"
+                            - text: Chris Project 3
+                          - cell "2" [ref=f19e229]
+                          - cell "Basic Design" [ref=f19e230]
+                          - cell "Designer, Electrical Engineering, Mechanical Engineering" [ref=f19e232]
+                          - cell "10/4/2023 | Y" [ref=f19e233]:
+                            - generic [ref=f19e234]:
+                              - generic [ref=f19e235]: 10/4/2023
+                              - generic [ref=f19e236]: "|"
+                              - generic [ref=f19e237] [cursor=pointer]: "Y"
+                          - cell "+" [ref=f19e238]
+                          - cell "IP" [ref=f19e240]
+                          - cell "2 days" [ref=f19e242]
+                          - cell "9/5/2023" [ref=f19e243]
+                          - cell [ref=f19e244]
+                          - cell "+" [ref=f19e245]
+                          - cell "+" [ref=f19e247]
+                          - cell "Chris Timmer" [ref=f19e249]
+                        - 'row "+ ! PMI1 Template MANPOWER 5 501 P2: Disassembly - Post Power Off ARTISAN[6] 11/30/2023 | Y + IP 2d 8.8h 11/13/2023 + + Concerto Admin" [ref=f19e250]':
+                          - cell [ref=f19e251]:
+                            - generic [ref=f19e255] [cursor=pointer]
+                          - cell [ref=f19e256]
+                          - cell "+" [ref=f19e257]
+                          - cell "! PMI1 Template MANPOWER 5" [ref=f19e259]:
+                            - generic [ref=f19e260] [cursor=pointer]: "!"
+                            - text: PMI1 Template MANPOWER 5
+                          - cell "501" [ref=f19e262]
+                          - 'cell "P2: Disassembly - Post Power Off" [ref=f19e263]'
+                          - cell "ARTISAN[6]" [ref=f19e265]
+                          - cell "11/30/2023 | Y" [ref=f19e266]:
+                            - generic [ref=f19e267]:
+                              - generic [ref=f19e268]: 11/30/2023
+                              - generic [ref=f19e269]: "|"
+                              - generic [ref=f19e270] [cursor=pointer]: "Y"
+                          - cell "+" [ref=f19e271]
+                          - cell "IP" [ref=f19e273]
+                          - cell "2d 8.8h" [ref=f19e275]
+                          - cell "11/13/2023" [ref=f19e276]
+                          - cell [ref=f19e277]
+                          - cell "+" [ref=f19e278]
+                          - cell "+" [ref=f19e280]
+                          - cell "Concerto Admin" [ref=f19e282]
+                        - 'row "+ ! Test for Integration MRO 58 P3: Inspection ARTISAN[5] 1/16/2024 | N + IP 1.3 hours 9/13/2023 + + Concerto Admin" [ref=f19e283]':
+                          - cell [ref=f19e284]:
+                            - generic [ref=f19e288] [cursor=pointer]
+                          - cell [ref=f19e289]
+                          - cell "+" [ref=f19e290]
+                          - cell "! Test for Integration MRO" [ref=f19e292]:
+                            - generic [ref=f19e293] [cursor=pointer]: "!"
+                            - text: Test for Integration MRO
+                          - cell "58" [ref=f19e295]
+                          - 'cell "P3: Inspection" [ref=f19e296]'
+                          - cell "ARTISAN[5]" [ref=f19e298]
+                          - cell "1/16/2024 | N" [ref=f19e299]:
+                            - generic [ref=f19e300]:
+                              - generic [ref=f19e301]: 1/16/2024
+                              - generic [ref=f19e302]: "|"
+                              - generic [ref=f19e303] [cursor=pointer]: "N"
+                          - cell "+" [ref=f19e304]
+                          - cell "IP" [ref=f19e306]
+                          - cell "1.3 hours" [ref=f19e308]
+                          - cell "9/13/2023" [ref=f19e309]
+                          - cell [ref=f19e310]
+                          - cell "+" [ref=f19e311]
+                          - cell "+" [ref=f19e313]
+                          - cell "Concerto Admin" [ref=f19e315]
+                        - 'row "+ ! Test for Integration MRO 504 P4: Repair - Zone 1A ARTISAN[2] 1/16/2024 | N + IP 3.4 hours 9/7/2023 + + Concerto Admin" [ref=f19e316]':
+                          - cell [ref=f19e317]:
+                            - generic [ref=f19e321] [cursor=pointer]
+                          - cell [ref=f19e322]
+                          - cell "+" [ref=f19e323]
+                          - cell "! Test for Integration MRO" [ref=f19e325]:
+                            - generic [ref=f19e326] [cursor=pointer]: "!"
+                            - text: Test for Integration MRO
+                          - cell "504" [ref=f19e328]
+                          - 'cell "P4: Repair - Zone 1A" [ref=f19e329]'
+                          - cell "ARTISAN[2]" [ref=f19e331]
+                          - cell "1/16/2024 | N" [ref=f19e332]:
+                            - generic [ref=f19e333]:
+                              - generic [ref=f19e334]: 1/16/2024
+                              - generic [ref=f19e335]: "|"
+                              - generic [ref=f19e336] [cursor=pointer]: "N"
+                          - cell "+" [ref=f19e337]
+                          - cell "IP" [ref=f19e339]
+                          - cell "3.4 hours" [ref=f19e341]
+                          - cell "9/7/2023" [ref=f19e342]
+                          - cell [ref=f19e343]
+                          - cell "+" [ref=f19e344]
+                          - cell "+" [ref=f19e346]
+                          - cell "Concerto Admin" [ref=f19e348]
+                        - 'row "+ ! Test for Integration MRO 505 P4: Repair - Zone 1B ARTISAN[2] 1/16/2024 | N + IP 1d 5.4h 9/12/2023 + + Concerto Admin" [ref=f19e349]':
+                          - cell [ref=f19e350]:
+                            - generic [ref=f19e354] [cursor=pointer]
+                          - cell [ref=f19e355]
+                          - cell "+" [ref=f19e356]
+                          - cell "! Test for Integration MRO" [ref=f19e358]:
+                            - generic [ref=f19e359] [cursor=pointer]: "!"
+                            - text: Test for Integration MRO
+                          - cell "505" [ref=f19e361]
+                          - 'cell "P4: Repair - Zone 1B" [ref=f19e362]'
+                          - cell "ARTISAN[2]" [ref=f19e364]
+                          - cell "1/16/2024 | N" [ref=f19e365]:
+                            - generic [ref=f19e366]:
+                              - generic [ref=f19e367]: 1/16/2024
+                              - generic [ref=f19e368]: "|"
+                              - generic [ref=f19e369] [cursor=pointer]: "N"
+                          - cell "+" [ref=f19e370]
+                          - cell "IP" [ref=f19e372]
+                          - cell "1d 5.4h" [ref=f19e374]
+                          - cell "9/12/2023" [ref=f19e375]
+                          - cell [ref=f19e376]
+                          - cell "+" [ref=f19e377]
+                          - cell "+" [ref=f19e379]
+                          - cell "Concerto Admin" [ref=f19e381]
+                        - 'row "+ ! Test for Integration MRO 508 P4: Repair - Zone 2R ARTISAN[2] 1/16/2024 | N + IP 1d 2.1h 9/7/2023 + + Concerto Admin" [ref=f19e382]':
+                          - cell [ref=f19e383]:
+                            - generic [ref=f19e387] [cursor=pointer]
+                          - cell [ref=f19e388]
+                          - cell "+" [ref=f19e389]
+                          - cell "! Test for Integration MRO" [ref=f19e391]:
+                            - generic [ref=f19e392] [cursor=pointer]: "!"
+                            - text: Test for Integration MRO
+                          - cell "508" [ref=f19e394]
+                          - 'cell "P4: Repair - Zone 2R" [ref=f19e395]'
+                          - cell "ARTISAN[2]" [ref=f19e397]
+                          - cell "1/16/2024 | N" [ref=f19e398]:
+                            - generic [ref=f19e399]:
+                              - generic [ref=f19e400]: 1/16/2024
+                              - generic [ref=f19e401]: "|"
+                              - generic [ref=f19e402] [cursor=pointer]: "N"
+                          - cell "+" [ref=f19e403]
+                          - cell "IP" [ref=f19e405]
+                          - cell "1d 2.1h" [ref=f19e407]
+                          - cell "9/7/2023" [ref=f19e408]
+                          - cell [ref=f19e409]
+                          - cell "+" [ref=f19e410]
+                          - cell "+" [ref=f19e412]
+                          - cell "Concerto Admin" [ref=f19e414]
+                        - 'row "+ ! Test for Integration MRO 509 P4: Repair - Zone 4 ARTISAN[2] 1/17/2024 | N + IP 2d 5.5h 9/18/2023 + + Concerto Admin" [ref=f19e415]':
+                          - cell [ref=f19e416]:
+                            - generic [ref=f19e420] [cursor=pointer]
+                          - cell [ref=f19e421]
+                          - cell "+" [ref=f19e422]
+                          - cell "! Test for Integration MRO" [ref=f19e424]:
+                            - generic [ref=f19e425] [cursor=pointer]: "!"
+                            - text: Test for Integration MRO
+                          - cell "509" [ref=f19e427]
+                          - 'cell "P4: Repair - Zone 4" [ref=f19e428]'
+                          - cell "ARTISAN[2]" [ref=f19e430]
+                          - cell "1/17/2024 | N" [ref=f19e431]:
+                            - generic [ref=f19e432]:
+                              - generic [ref=f19e433]: 1/17/2024
+                              - generic [ref=f19e434]: "|"
+                              - generic [ref=f19e435] [cursor=pointer]: "N"
+                          - cell "+" [ref=f19e436]
+                          - cell "IP" [ref=f19e438]
+                          - cell "2d 5.5h" [ref=f19e440]
+                          - cell "9/18/2023" [ref=f19e441]
+                          - cell [ref=f19e442]
+                          - cell "+" [ref=f19e443]
+                          - cell "+" [ref=f19e445]
+                          - cell "Concerto Admin" [ref=f19e447]
+                        - 'row "+ ! Test for Integration MRO 605 P4: Repair - Zone 3 ARTISAN[2] 1/17/2024 | N + IP 10.1 hours 9/24/2023 + + Concerto Admin" [ref=f19e448]':
+                          - cell [ref=f19e449]:
+                            - generic [ref=f19e453] [cursor=pointer]
+                          - cell [ref=f19e454]
+                          - cell "+" [ref=f19e455]
+                          - cell "! Test for Integration MRO" [ref=f19e457]:
+                            - generic [ref=f19e458] [cursor=pointer]: "!"
+                            - text: Test for Integration MRO
+                          - cell "605" [ref=f19e460]
+                          - 'cell "P4: Repair - Zone 3" [ref=f19e461]'
+                          - cell "ARTISAN[2]" [ref=f19e463]
+                          - cell "1/17/2024 | N" [ref=f19e464]:
+                            - generic [ref=f19e465]:
+                              - generic [ref=f19e466]: 1/17/2024
+                              - generic [ref=f19e467]: "|"
+                              - generic [ref=f19e468] [cursor=pointer]: "N"
+                          - cell "+" [ref=f19e469]
+                          - cell "IP" [ref=f19e471]
+                          - cell "10.1 hours" [ref=f19e473]
+                          - cell "9/24/2023" [ref=f19e474]
+                          - cell [ref=f19e475]
+                          - cell "+" [ref=f19e476]
+                          - cell "+" [ref=f19e478]
+                          - cell "Concerto Admin" [ref=f19e480]
+                        - 'row "+ ! Test for Integration MRO 604 P4: Repair - Zone 5 ARTISAN[2] 1/18/2024 | N + IP 1d 1.7h 9/14/2023 + + Concerto Admin" [ref=f19e481]':
+                          - cell [ref=f19e482]:
+                            - generic [ref=f19e486] [cursor=pointer]
+                          - cell [ref=f19e487]
+                          - cell "+" [ref=f19e488]
+                          - cell "! Test for Integration MRO" [ref=f19e490]:
+                            - generic [ref=f19e491] [cursor=pointer]: "!"
+                            - text: Test for Integration MRO
+                          - cell "604" [ref=f19e493]
+                          - 'cell "P4: Repair - Zone 5" [ref=f19e494]'
+                          - cell "ARTISAN[2]" [ref=f19e496]
+                          - cell "1/18/2024 | N" [ref=f19e497]:
+                            - generic [ref=f19e498]:
+                              - generic [ref=f19e499]: 1/18/2024
+                              - generic [ref=f19e500]: "|"
+                              - generic [ref=f19e501] [cursor=pointer]: "N"
+                          - cell "+" [ref=f19e502]
+                          - cell "IP" [ref=f19e504]
+                          - cell "1d 1.7h" [ref=f19e506]
+                          - cell "9/14/2023" [ref=f19e507]
+                          - cell [ref=f19e508]
+                          - cell "+" [ref=f19e509]
+                          - cell "+" [ref=f19e511]
+                          - cell "Concerto Admin" [ref=f19e513]
+                        - row [ref=f19e514]:
+                          - cell [ref=f19e515]
+                          - cell [ref=f19e518]
+                          - cell "+" [ref=f19e519]
+                          - cell "! Navy Cloud Pilot Deployment" [ref=f19e521]:
+                            - generic [ref=f19e522] [cursor=pointer]: "!"
+                            - text: Navy Cloud Pilot Deployment
+                          - cell "37" [ref=f19e524]
+                          - cell "Phase 1 - Planning" [ref=f19e525]
+                          - cell "Government[1.7]" [ref=f19e527]
+                          - cell "4/10/2024 | Y" [ref=f19e528]:
+                            - generic [ref=f19e529]:
+                              - generic [ref=f19e530]: 4/10/2024
+                              - generic [ref=f19e531]: "|"
+                              - generic [ref=f19e532] [cursor=pointer]: "Y"
+                          - cell "+" [ref=f19e533]
+                          - cell "IP" [ref=f19e535]
+                          - cell "5 days" [ref=f19e537]
+                          - cell "12/12/2023" [ref=f19e538]
+                          - cell [ref=f19e539]
+                          - cell "+" [ref=f19e540]
+                          - cell "+" [ref=f19e542]
+                          - cell "Michael Hamlin" [ref=f19e544]
+                        - 'row "+ ! `MRO 1 P0: Pre-Induction ARTISAN[6] 7/17/2024 | Y + IP 1d 1.4h 12/1/2023 + + Deepak Jha" [ref=f19e545]':
+                          - cell [ref=f19e546]:
+                            - generic [ref=f19e550] [cursor=pointer]
+                          - cell [ref=f19e551]
+                          - cell "+" [ref=f19e552]
+                          - 'cell "! `MRO" [ref=f19e554]':
+                            - generic [ref=f19e555] [cursor=pointer]: "!"
+                            - text: "`MRO"
+                          - cell "1" [ref=f19e557]
+                          - 'cell "P0: Pre-Induction" [ref=f19e558]'
+                          - cell "ARTISAN[6]" [ref=f19e560]
+                          - cell "7/17/2024 | Y" [ref=f19e561]:
+                            - generic [ref=f19e562]:
+                              - generic [ref=f19e563]: 7/17/2024
+                              - generic [ref=f19e564]: "|"
+                              - generic [ref=f19e565] [cursor=pointer]: "Y"
+                          - cell "+" [ref=f19e566]
+                          - cell "IP" [ref=f19e568]
+                          - cell "1d 1.4h" [ref=f19e570]
+                          - cell "12/1/2023" [ref=f19e571]
+                          - cell [ref=f19e572]
+                          - cell "+" [ref=f19e573]
+                          - cell "+" [ref=f19e575]
+                          - cell "Deepak Jha" [ref=f19e577]
+                        - 'row "+ Example MRO Project 501 P2: Disassembly - Post Power Off ARTISAN[7] 9/9/2024 | Y + IP status icon 6.6 hours 6/8/2023 + + Concerto Admin" [ref=f19e578]':
+                          - cell [ref=f19e579]:
+                            - generic [ref=f19e583] [cursor=pointer]
+                          - cell [ref=f19e584]
+                          - cell "+" [ref=f19e585]
+                          - cell "Example MRO Project" [ref=f19e588]
+                          - cell "501" [ref=f19e589]
+                          - 'cell "P2: Disassembly - Post Power Off" [ref=f19e590]'
+                          - cell "ARTISAN[7]" [ref=f19e592]
+                          - cell "9/9/2024 | Y" [ref=f19e593]:
+                            - generic [ref=f19e594]:
+                              - generic [ref=f19e595]: 9/9/2024
+                              - generic [ref=f19e596]: "|"
+                              - generic [ref=f19e597] [cursor=pointer]: "Y"
+                          - cell "+" [ref=f19e598]
+                          - cell [ref=f19e601]:
+                            - generic [ref=f19e602] [cursor=pointer]:
+                              - text: IP
+                              - img "status icon" [ref=f19e603]
+                          - cell "6.6 hours" [ref=f19e604]:
+                            - generic [aria-hidden] [ref=f19e605] [cursor=pointer]: 
+                            - text: 6.6 hours
+                          - cell "6/8/2023" [ref=f19e606]
+                          - cell [ref=f19e607]
+                          - cell "+" [ref=f19e608]
+                          - cell "+" [ref=f19e611] [cursor=pointer]
+                          - cell "Concerto Admin" [ref=f19e614]
+                    - table [ref=f19e622]:
+                      - rowgroup [ref=f19e641]:
+                        - row "Task Type Constraint Date Task Mgr Project Name UID Description Resources Sugg Start Preds CO Participants Status Rem Dur Actual Start Date Actual End Date Comments Help Needed Project Mgr" [ref=f19e642]:
+                          - columnheader [ref=f19e643]
+                          - columnheader "Task Type" [ref=f19e646]
+                          - columnheader "Constraint Date" [ref=f19e650]
+                          - columnheader "Task Mgr" [ref=f19e654]
+                          - columnheader "Project Name" [ref=f19e658]
+                          - columnheader "UID" [ref=f19e662]
+                          - columnheader "Description" [ref=f19e666]
+                          - columnheader "Resources" [ref=f19e670]
+                          - columnheader "Sugg Start Preds CO" [ref=f19e674]:
+                            - generic [ref=f19e677]:
+                              - generic [ref=f19e678]: Sugg Start
+                              - generic [ref=f19e681]: Preds CO
+                          - columnheader "Participants" [ref=f19e683]
+                          - columnheader "Status" [ref=f19e687]
+                          - columnheader "Rem Dur" [ref=f19e691]
+                          - columnheader "Actual Start Date" [ref=f19e695]
+                          - columnheader "Actual End Date" [ref=f19e699]
+                          - columnheader "Comments" [ref=f19e703]
+                          - columnheader "Help Needed" [ref=f19e707]
+                          - columnheader "Project Mgr" [ref=f19e711]
+                      - rowgroup
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - table:
+                              - rowgroup:
+                                - row
+                              - rowgroup
+                    - table [ref=f19e717]:
+                      - rowgroup [ref=f19e720]:
+                        - row [ref=f19e721]:
+                          - columnheader [ref=f19e722]
+                        - row [ref=f19e723]:
+                          - columnheader [ref=f19e724]
+                        - row [ref=f19e725]:
+                          - columnheader [ref=f19e726]
+                        - row [ref=f19e727]:
+                          - columnheader [ref=f19e728]
+                        - row [ref=f19e729]:
+                          - columnheader [ref=f19e730]
+                        - row [ref=f19e731]:
+                          - columnheader [ref=f19e732]
+                        - row [ref=f19e733]:
+                          - columnheader [ref=f19e734]
+                        - row [ref=f19e735]:
+                          - columnheader [ref=f19e736]
+                        - row [ref=f19e737]:
+                          - columnheader [ref=f19e738]
+                        - row [ref=f19e739]:
+                          - columnheader [ref=f19e740]
+                        - row [ref=f19e741]:
+                          - columnheader [ref=f19e742]
+                        - row [ref=f19e743]:
+                          - columnheader [ref=f19e744]
+                        - row [ref=f19e745]:
+                          - columnheader [ref=f19e746]
+                        - row [ref=f19e747]:
+                          - columnheader [ref=f19e748]
+                        - row [ref=f19e749]:
+                          - columnheader [ref=f19e750]
+                    - table [ref=f19e753]:
+                      - rowgroup [ref=f19e756]:
+                        - row [ref=f19e757]
+                      - rowgroup
+                  - text: 
+              - generic: Loading...

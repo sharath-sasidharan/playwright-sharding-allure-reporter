@@ -1,0 +1,110 @@
+- generic [active] [ref=f10e1]:
+  - iframe [ref=f10e2]:
+    - generic [ref=f11e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f11e2]:
+        - table [ref=f11e3]:
+          - rowgroup [ref=f11e4]:
+            - row [ref=f11e5]:
+              - cell [ref=f11e6]:
+                - table [ref=f11e7]:
+                  - rowgroup [ref=f11e8]:
+                    - row [ref=f11e9]:
+                      - cell [ref=f11e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f11e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f11e13]:
+                - table [ref=f11e14]:
+                  - rowgroup [ref=f11e15]:
+                    - row [ref=f11e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f11e17]':
+                        - generic [ref=f11e18]:
+                          - generic [ref=f11e19]: "Username: ResAdmin"
+                          - generic [ref=f11e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f11e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f11e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f11e23]:
+          - rowgroup [ref=f11e24]:
+            - row [ref=f11e25]:
+              - cell [ref=f11e26]
+              - cell [ref=f11e27]:
+                - link "Full Kit Mgt" [ref=f11e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f11e29]:
+                - link "Task Mgt" [ref=f11e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f11e31]:
+                - link "Project Mgt" [ref=f11e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f11e33]:
+                - link "Resource Mgt" [ref=f11e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f11e35]:
+                - link "Executive" [ref=f11e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f11e37]:
+                - link "Program Mgt" [ref=f11e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f11e39]:
+                - link "Pipeline Mgt" [ref=f11e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f11e41]:
+                - link "Metrics" [ref=f11e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f11e43]:
+                - link "Buffer Diagnostics" [ref=f11e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f11e45]:
+                - link "P2P" [ref=f11e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f11e47]:
+                - link "Business Rules" [ref=f11e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f11e49]:
+                - link "Admin" [ref=f11e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f11e51]
+  - generic [ref=f10e3]:
+    - iframe [ref=f10e4]
+    - iframe [ref=f10e5]:
+      - table [ref=f13e2]:
+        - rowgroup [ref=f13e3]:
+          - row [ref=f13e4]:
+            - cell [ref=f13e5]
+          - row [ref=f13e6]:
+            - cell [ref=f13e7]
+            - cell [ref=f13e8]:
+              - table [ref=f13e9]:
+                - rowgroup [ref=f13e10]:
+                  - row [ref=f13e11]:
+                    - cell [ref=f13e12]:
+                      - table [ref=f13e13]:
+                        - rowgroup [ref=f13e14]:
+                          - row [ref=f13e15]:
+                            - cell [ref=f13e16]
+                            - cell [ref=f13e17]:
+                              - table [ref=f13e18]:
+                                - rowgroup [ref=f13e19]:
+                                  - row [ref=f13e20]:
+                                    - cell [ref=f13e21]:
+                                      - table [ref=f13e22]:
+                                        - rowgroup [ref=f13e23]:
+                                          - row [ref=f13e24]:
+                                            - cell [ref=f13e25]
+                                  - row [ref=f13e27]:
+                                    - cell [ref=f13e28]:
+                                      - link "Edit Announcements" [ref=f13e30] [cursor=pointer]:
+                                        - /url: javascript:ShowDivEditAnnouncement('editAnnouncement')
+                            - cell [ref=f13e31]
+                          - row [ref=f13e32]:
+                            - cell [ref=f13e33]
+                            - cell [ref=f13e34]
+                            - cell [ref=f13e35]
+            - cell [ref=f13e36]
+          - row [ref=f13e37]:
+            - cell [ref=f13e38]
+            - 'cell "Version: 5.10.72024 © 1998-2026 Realization Technologies, Inc. All Rights Reserved" [ref=f13e39]': "Version: 5.10.72024© 1998-2026 Realization Technologies, Inc. All Rights Reserved"
+            - cell [ref=f13e40]

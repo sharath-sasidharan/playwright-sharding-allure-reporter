@@ -1,0 +1,12 @@
+[   16461ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://installera2.realization.com/conweb/Include/Fonts/OpenSans/mem5YaGs126MiZpBA-UNirkOUuhp.woff2 @ https://installera2.realization.com/conweb/succeed.aspx:182
+[   69297ms] [LOG] Logs dumped from all screens:  Map(4) @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[   69621ms] [LOG] Logs saved successfully @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[  297123ms] [LOG] payload {projects: .All Projects, status: Committed, In Queue (CIQ), In Process (IP), On Hold (OH), division: ATAL, CENTURION, CMG TEST, COHU, DEFAULT, DEV, EVA…MENS GEN, SIEMENS POWER, SPEARHEAD, SYNERGIC, ZIM, author: undefined, category: undefined} @ https://installera2.realization.com/conweb/WebApplication/webApp/9625.496d94ff.js:1
+[  309854ms] [LOG] Logs dumped from all screens:  Map(2) @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[  310169ms] [LOG] Logs saved successfully @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[  389511ms] [LOG] payload {projects: .All Projects, status: Committed, In Queue (CIQ), In Process (IP), On Hold (OH), division: ATAL, CENTURION, CMG TEST, COHU, DEFAULT, DEV, EVA…MENS GEN, SIEMENS POWER, SPEARHEAD, SYNERGIC, ZIM, author: undefined, category: undefined} @ https://installera2.realization.com/conweb/WebApplication/webApp/9625.496d94ff.js:1
+[  402503ms] [LOG] Logs dumped from all screens:  Map(2) @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[  402819ms] [LOG] Logs saved successfully @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[  425840ms] [LOG] payload {projects: .All Projects, status: Committed, In Queue (CIQ), In Process (IP), On Hold (OH), division: .All Division, author: undefined, category: undefined} @ https://installera2.realization.com/conweb/WebApplication/webApp/9625.496d94ff.js:1
+[  438497ms] [LOG] Logs dumped from all screens:  Map(2) @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[  438803ms] [LOG] Logs saved successfully @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1

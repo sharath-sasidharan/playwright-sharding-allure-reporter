@@ -1,0 +1,247 @@
+- generic [ref=f1e1]:
+  - iframe [active] [ref=f1e2]:
+    - generic [ref=f2e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f2e2]:
+        - table [ref=f2e3]:
+          - rowgroup [ref=f2e4]:
+            - row [ref=f2e5]:
+              - cell [ref=f2e6]:
+                - table [ref=f2e7]:
+                  - rowgroup [ref=f2e8]:
+                    - row [ref=f2e9]:
+                      - cell [ref=f2e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f2e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f2e13]:
+                - table [ref=f2e14]:
+                  - rowgroup [ref=f2e15]:
+                    - row [ref=f2e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f2e17]':
+                        - generic [ref=f2e18]:
+                          - generic [ref=f2e19]: "Username: ResAdmin"
+                          - generic [ref=f2e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f2e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f2e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f2e23]:
+          - rowgroup [ref=f2e24]:
+            - row [ref=f2e25]:
+              - cell [ref=f2e26]
+              - cell [ref=f2e27]:
+                - link "Full Kit Mgt" [ref=f2e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f2e29]:
+                - link "Task Mgt" [ref=f2e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f2e31]:
+                - link "Project Mgt" [ref=f2e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f2e33]:
+                - link "Resource Mgt" [ref=f2e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f2e35]:
+                - link "Executive" [ref=f2e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f2e37]:
+                - link "Program Mgt" [active] [ref=f2e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f2e39]:
+                - link "Pipeline Mgt" [ref=f2e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f2e41]:
+                - link "Metrics" [ref=f2e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f2e43]:
+                - link "Buffer Diagnostics" [ref=f2e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f2e45]:
+                - link "P2P" [ref=f2e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f2e47]:
+                - link "Business Rules" [ref=f2e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f2e49]:
+                - link "Admin" [ref=f2e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f2e51]
+  - generic [ref=f1e3]:
+    - iframe [ref=f1e4]
+    - iframe [ref=f1e5]:
+      - generic [ref=f4e1]:
+        - iframe
+        - iframe [ref=f4e2]:
+          - generic [ref=f7e1]:
+            - toolbar [ref=f7e2]:
+              - text: Filters
+              - button "Collapse panel" [ref=f7e3] [cursor=pointer]
+            - iframe [ref=f7e4]:
+              - table [ref=f8e3]:
+                - rowgroup [ref=f8e4]:
+                  - row [ref=f8e5]:
+                    - cell [ref=f8e6]:
+                      - table [ref=f8e8]:
+                        - rowgroup [ref=f8e9]:
+                          - row [ref=f8e10]:
+                            - cell [ref=f8e11]:
+                              - table [ref=f8e12]:
+                                - rowgroup [ref=f8e13]:
+                                  - row [ref=f8e14]:
+                                    - cell "Division" [ref=f8e15]
+                                    - cell "9WOOD" [ref=f8e16]:
+                                      - combobox [ref=f8e17]:
+                                        - option "9WOOD" [selected]
+                                        - option "ATAL"
+                                        - option "CENTURION"
+                                        - option "CMG TEST"
+                                        - option "COHU"
+                                        - option "COOKMEDICAL"
+                                        - option "DEFAULT"
+                                        - option "DEV"
+                                        - option "EVAL"
+                                        - option "F5"
+                                        - option "FLYINGLOGIC"
+                                        - option "FRCE"
+                                        - option "FRCSE"
+                                        - option "FRCSETEST"
+                                        - option "GOLDRATTUK"
+                                        - option "HALIO"
+                                        - option "HB"
+                                        - option "IMPLEMENTATIONS"
+                                        - option "L AND T DEMO"
+                                        - option "LAYTON"
+                                        - option "MICROSTEP"
+                                        - option "PCA"
+                                        - option "PH_LOCAL"
+                                        - option "PIPELINE"
+                                        - option "PRA"
+                                        - option "PRES HELO"
+                                        - option "PROJECT CONTROL"
+                                        - option "QATAR"
+                                        - option "RAYSTEST"
+                                        - option "RCPI"
+                                        - option "REEL ALESA"
+                                        - option "SE"
+                                        - option "SIEMENS GEN"
+                                        - option "SIEMENS POWER"
+                                        - option "SPEARHEAD"
+                                        - option "SYNERGIC"
+                                        - option "ZIM"
+                            - cell [ref=f8e18]:
+                              - table [ref=f8e19]:
+                                - rowgroup [ref=f8e20]:
+                                  - row [ref=f8e21]:
+                                    - cell "Portfolio" [ref=f8e22]
+                                    - cell ".All Portfolio" [ref=f8e23]:
+                                      - combobox [ref=f8e24]:
+                                        - option ".All Portfolio" [selected]
+                                        - option "AAA Vascular"
+                                        - option "P1"
+                                        - option "P2"
+                                        - option "P3"
+                            - cell [ref=f8e25]:
+                              - table [ref=f8e26]:
+                                - rowgroup [ref=f8e27]:
+                                  - row [ref=f8e28]:
+                                    - cell "Template(s)" [ref=f8e29]
+                                    - cell ".All Template(s)" [ref=f8e30]:
+                                      - combobox [ref=f8e31]:
+                                        - option ".All Template(s)" [selected]
+                                        - option "N"
+                          - row [ref=f8e32]:
+                            - cell [ref=f8e33]:
+                              - table [ref=f8e34]:
+                                - rowgroup [ref=f8e35]:
+                                  - row [ref=f8e36]:
+                                    - cell "Customer" [ref=f8e37]
+                                    - cell ".All Customer" [ref=f8e38]:
+                                      - combobox [ref=f8e39]:
+                                        - option ".All Customer" [selected]
+                                        - option "Customer1"
+                                        - option "Customer2"
+                                        - option "Customer3"
+                            - cell [ref=f8e40]:
+                              - table [ref=f8e41]:
+                                - rowgroup [ref=f8e42]:
+                                  - row [ref=f8e43]:
+                                    - cell "Designers Required" [ref=f8e44]
+                                    - cell ".All Designers Required" [ref=f8e45]:
+                                      - combobox [ref=f8e46]:
+                                        - option ".All Designers Required" [selected]
+                                        - option "1"
+                                        - option "2"
+                                        - option "3"
+                            - cell [ref=f8e47]:
+                              - table [ref=f8e48]:
+                                - rowgroup [ref=f8e49]:
+                                  - row [ref=f8e50]:
+                                    - cell "Project Attribute 5" [ref=f8e51]
+                                    - cell ".All Project Attribute 5" [ref=f8e52]:
+                                      - combobox [ref=f8e53]:
+                                        - option ".All Project Attribute 5" [selected]
+                          - row [ref=f8e54]:
+                            - cell [ref=f8e55]:
+                              - table [ref=f8e56]:
+                                - rowgroup [ref=f8e57]:
+                                  - row [ref=f8e58]:
+                                    - cell "Project Attribute 6" [ref=f8e59]
+                                    - cell ".All Project Attribute 6" [ref=f8e60]:
+                                      - combobox [ref=f8e61]:
+                                        - option ".All Project Attribute 6" [selected]
+                            - cell [ref=f8e62]:
+                              - table:
+                                - rowgroup:
+                                  - row
+                            - cell [ref=f8e63]:
+                              - table [ref=f8e64]:
+                                - rowgroup [ref=f8e65]:
+                                  - row [ref=f8e66]:
+                                    - cell [ref=f8e67]:
+                                      - button "Refresh" [ref=f8e68] [cursor=pointer]
+                    - cell [ref=f8e69]:
+                      - table [ref=f8e70]:
+                        - rowgroup [ref=f8e71]:
+                          - row [ref=f8e72]:
+                            - cell [ref=f8e73]:
+                              - button "Advanced Filters" [ref=f8e75] [cursor=pointer]
+                            - cell [ref=f8e76]
+                            - cell [ref=f8e77]
+                            - cell [ref=f8e78]
+                            - cell [ref=f8e79]
+            - toolbar [ref=f7e5]:
+              - text: Program Status
+              - button "Collapse panel" [ref=f7e6] [cursor=pointer]
+            - toolbar [ref=f7e7]:
+              - text: Project Status
+              - button "Collapse panel" [ref=f7e8] [cursor=pointer]
+            - text: Select Filters and Refresh to load report.
+            - toolbar [ref=f7e9]:
+              - text: Task Update Frequency
+              - button "Collapse panel" [ref=f7e10] [cursor=pointer]
+              - button "Maximize" [ref=f7e11] [cursor=pointer]
+              - button "filter" [ref=f7e12] [cursor=pointer]
+            - text: Select Filters and Refresh to load report.
+            - separator [ref=f7e13]
+            - toolbar [ref=f7e14]:
+              - text: Projects
+              - button "Collapse panel" [ref=f7e15] [cursor=pointer]
+              - button "Edit displayed column" [ref=f7e16] [cursor=pointer]
+            - text: Select Filters and Refresh to load report.
+            - toolbar [ref=f7e17]:
+              - text: Update Compliance Chart
+              - button "Collapse panel" [ref=f7e18] [cursor=pointer]
+              - button "filter" [ref=f7e19] [cursor=pointer]
+            - text: Select Filters and Refresh to load chart.
+            - toolbar [ref=f7e20]:
+              - text: Escalated Tasks - (Maximize for full list)
+              - button "Collapse panel" [ref=f7e21] [cursor=pointer]
+              - button "Maximize" [ref=f7e22] [cursor=pointer]
+              - button "Edit displayed column" [ref=f7e23] [cursor=pointer]
+            - text: Select Filters and Refresh to load report.
+            - toolbar [ref=f7e24]:
+              - text: Program Performance
+              - button "Expand panel" [ref=f7e25] [cursor=pointer]
+              - button "filter" [ref=f7e26] [cursor=pointer]
+              - button "Load Widgets" [ref=f7e27] [cursor=pointer]

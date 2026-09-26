@@ -1,0 +1,526 @@
+- generic [ref=f1e1]:
+  - iframe [ref=f1e2]:
+    - generic [ref=f2e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f2e2]:
+        - table [ref=f2e3]:
+          - rowgroup [ref=f2e4]:
+            - row [ref=f2e5]:
+              - cell [ref=f2e6]:
+                - table [ref=f2e7]:
+                  - rowgroup [ref=f2e8]:
+                    - row [ref=f2e9]:
+                      - cell [ref=f2e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f2e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f2e13]:
+                - table [ref=f2e14]:
+                  - rowgroup [ref=f2e15]:
+                    - row [ref=f2e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f2e17]':
+                        - generic [ref=f2e18]:
+                          - generic [ref=f2e19]: "Username: ResAdmin"
+                          - generic [ref=f2e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f2e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f2e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f2e23]:
+          - rowgroup [ref=f2e24]:
+            - row [ref=f2e25]:
+              - cell [ref=f2e26]
+              - cell [ref=f2e27]:
+                - link "Full Kit Mgt" [ref=f2e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f2e29]:
+                - link "Task Mgt" [ref=f2e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f2e31]:
+                - link "Project Mgt" [ref=f2e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f2e33]:
+                - link "Resource Mgt" [ref=f2e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f2e35]:
+                - link "Executive" [ref=f2e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f2e37]:
+                - link "Program Mgt" [ref=f2e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f2e39]:
+                - link "Pipeline Mgt" [ref=f2e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f2e41]:
+                - link "Metrics" [ref=f2e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f2e43]:
+                - link "Buffer Diagnostics" [ref=f2e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f2e45]:
+                - link "P2P" [ref=f2e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f2e47]:
+                - link "Business Rules" [ref=f2e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f2e49]:
+                - link "Admin" [ref=f2e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f2e51]
+  - generic [ref=f1e3]:
+    - iframe [ref=f1e4]
+    - iframe [active] [ref=f1e5]:
+      - generic [ref=f4e1]:
+        - iframe [ref=f4e2]:
+          - table [ref=f6e2]:
+            - rowgroup [ref=f6e3]:
+              - row [ref=f6e4]:
+                - cell [ref=f6e5]:
+                  - table [ref=f6e6]:
+                    - rowgroup [ref=f6e7]:
+                      - row [ref=f6e8]:
+                        - cell [ref=f6e9]:
+                          - generic [ref=f6e10]:
+                            - link "View Resource L:C" [ref=f6e11] [cursor=pointer]:
+                              - /url: resmgr/rmphtml_frm.aspx
+                            - link "Escalated Tasks" [ref=f6e12] [cursor=pointer]:
+                              - /url: gridrpt/StuckTask_frm.aspx
+                            - link "Task List" [ref=f6e13] [cursor=pointer]:
+                              - /url: taskupdt/tasklistscreen_frm.aspx
+                            - link "Assign Task Mgrs" [ref=f6e14] [cursor=pointer]:
+                              - /url: taskupdt/TaskManagerAssignments.aspx
+                            - link "Flow Trend by Task Count" [ref=f6e15] [cursor=pointer]:
+                              - /url: javascript:displayFlowTrend(true)
+                            - link "Flow Trend by Resource Load" [ref=f6e16] [cursor=pointer]:
+                              - /url: javascript:displayFlowTrend(false)
+                            - link "Global Resource File" [ref=f6e17] [cursor=pointer]:
+                              - /url: resmgr/rmrpt.aspx
+                            - link "Resource Needs" [ref=f6e18] [cursor=pointer]:
+                              - /url: resmgr/rrrpt.aspx
+                            - link "Sand Chart" [ref=f6e19] [cursor=pointer]:
+                              - /url: resmgr/ResourceSandChart.aspx
+                        - cell
+                        - cell [ref=f6e20]:
+                          - link [ref=f6e21] [cursor=pointer]:
+                            - /url: /ConWeb/pdf/Concerto Resource Manager QRG.pdf
+                            - img "Resource Portal Help" [ref=f6e22]
+        - iframe [active] [ref=f4e3]:
+          - generic [ref=f7e1]:
+            - iframe [active] [ref=f7e2]:
+              - table [ref=f8e4]:
+                - rowgroup [ref=f8e5]:
+                  - row [ref=f8e111]:
+                    - cell [ref=f8e112]:
+                      - table [ref=f8e8]:
+                        - rowgroup [ref=f8e9]:
+                          - row [ref=f8e113]:
+                            - cell [ref=f8e114]:
+                              - table [ref=f8e12]:
+                                - rowgroup [ref=f8e13]:
+                                  - row [ref=f8e115]:
+                                    - cell "Horizon" [ref=f8e15]
+                                    - cell [ref=f8e116]:
+                                      - generic [ref=f8e17]:
+                                        - textbox [ref=f8e18]: "1"
+                                        - combobox [ref=f8e19]:
+                                          - option "Weeks" [selected]
+                                          - option "Months"
+                                          - option "Quarters"
+                            - cell [ref=f8e20]:
+                              - table [ref=f8e21]:
+                                - rowgroup [ref=f8e22]:
+                                  - row [ref=f8e23]:
+                                    - cell "Division" [ref=f8e24]
+                                    - cell ".All Division" [ref=f8e25]:
+                                      - combobox [ref=f8e26]:
+                                        - option ".All Division" [selected]
+                                        - option "9WOOD"
+                                        - option "ATAL"
+                                        - option "CENTURION"
+                                        - option "CMG TEST"
+                                        - option "COHU"
+                                        - option "DEFAULT"
+                                        - option "DEV"
+                                        - option "EVAL"
+                                        - option "FRCE"
+                                        - option "FRCSE"
+                                        - option "FRCSETEST"
+                                        - option "GOLDRATTUK"
+                                        - option "HB"
+                                        - option "L AND T DEMO"
+                                        - option "LAYTON"
+                                        - option "PH_LOCAL"
+                                        - option "PRES HELO"
+                                        - option "PROJECT CONTROL"
+                                        - option "QATAR"
+                                        - option "REEL ALESA"
+                                        - option "SE"
+                                        - option "SIEMENS GEN"
+                                        - option "SPEARHEAD"
+                                        - option "SYNERGIC"
+                                        - option "ZIM"
+                            - cell [ref=f8e27]:
+                              - table [ref=f8e28]:
+                                - rowgroup [ref=f8e29]:
+                                  - row [ref=f8e30]:
+                                    - cell "Projects" [ref=f8e31]
+                                    - cell ".All Projects" [ref=f8e32]:
+                                      - combobox [ref=f8e33]:
+                                        - option ".All Projects" [selected]
+                                        - option "1+Task"
+                                        - option "169425"
+                                        - 'option "`MRO"'
+                                        - option "ACE Demo 2-Tier"
+                                        - option "ACE Demo 240822"
+                                        - option "ACE Demo 240822_RZ"
+                                        - option "ACE Demo detailed tasks 240822"
+                                        - option "ACE Demo detiled tasks 240822_RZ"
+                                        - option "ACE Execution"
+                                        - option "Blank"
+                                        - option "Chris Project 3"
+                                        - option "Chris_Product Enhancement"
+                                        - option "DP273"
+                                        - option "EC-MRI"
+                                        - option "ERP en ABC"
+                                        - option "Example MRO Project"
+                                        - option "Full Kit Test CCGAN-2483"
+                                        - option "Gama1"
+                                        - option "Gama2"
+                                        - option "Gantt Rel 17"
+                                        - option "Glow Lab"
+                                        - option "Integration Example Execution"
+                                        - option "Majoris - 1 Mega INV_04-04_14-52"
+                                        - option "Medifab - RFID implementation plan"
+                                        - option "MetaBook"
+                                        - option "Navy Cloud Pilot Deployment"
+                                        - option "Penchard v1"
+                                        - option "PMI1 Template MANPOWER 5"
+                                        - option "Project 01"
+                                        - option "PT Testing"
+                                        - option "REEL TEST"
+                                        - option "RZTest_AWL027177_20230912"
+                                        - option "Smart PowerPack_05-09_07-06"
+                                        - option "SUBTASK-RTS-NETWORK"
+                                        - option "SUBTASK-RTS-WIP"
+                                        - option "T44_February_2019"
+                                        - option "T44_February_2019 2Tier"
+                                        - option "Test 2_Airnostrum"
+                                        - option "Test for Integration MRO"
+                                        - option "Test Part 1"
+                                        - option "Test-Chains"
+                                        - option "Test-pt"
+                                        - option "Test-Purchaing task"
+                                        - option "test-purchasing2"
+                                        - option "Test11"
+                                        - option "TEST_Airnostrum"
+                                        - option "TestAutoRollup"
+                                        - option "TestIMS"
+                                        - option "testM"
+                                        - option "TestNilesh2"
+                                        - option "TestSummary"
+                                        - option "V1 S05 169185 PMI-1 R2"
+                                        - option "V1 S06 1 86"
+                                        - option "V1 S06 169186 PMI-1"
+                                        - option "V1 S07 169181 PMI-1_2024"
+                                        - option "V1 S07 169181 PMI-1_2024_1_24_10_2_47"
+                                        - option "V1 S08 1 82"
+                                        - option "V1 S09 1 87"
+                                        - option "V1 S11 1 89"
+                                        - option "v2_22_DEV"
+                                        - option "W9585 - 9917-11-100 - 2405 IN x 604 IN RAPID RETURN DISTRIBUTION CONVEYOR - POPCOR - 1 EA"
+                                        - option "W9585 - 9917-11-100 2-Tier Example"
+                                        - option "WMS en RETAIL"
+                          - row [ref=f8e34]:
+                            - cell [ref=f8e35]:
+                              - table [ref=f8e36]:
+                                - rowgroup [ref=f8e37]:
+                                  - row [ref=f8e38]:
+                                    - cell "Resource Manager" [ref=f8e39]
+                                    - cell ".All Resource Managers" [ref=f8e40]:
+                                      - combobox [ref=f8e41]:
+                                        - option ".All Resource Managers" [selected]
+                                        - option "950div*"
+                                        - option "ackermannm"
+                                        - option "Ajai"
+                                        - option "andrew.j.rock"
+                                        - option "angela.munger"
+                                        - option "apie.pieterse"
+                                        - option "ashleyb"
+                                        - option "ata"
+                                        - option "baisr"
+                                        - option "blankenp"
+                                        - option "bryanta"
+                                        - option "buettnerp"
+                                        - option "buyer"
+                                        - option "C-ATR1"
+                                        - option "C-DS"
+                                        - option "C-KS"
+                                        - option "C-LBH"
+                                        - option "C-MB"
+                                        - option "C-MD"
+                                        - option "C-MSK"
+                                        - option "C-PR"
+                                        - option "C-PRK"
+                                        - option "C-PV"
+                                        - option "C-RM"
+                                        - option "C-RS*"
+                                        - option "C-RSK"
+                                        - option "C-SHOP"
+                                        - option "C-SIS"
+                                        - option "C-TL"
+                                        - option "C-TS"
+                                        - option "carl.dupreez"
+                                        - option "ccoury"
+                                        - option "charltond"
+                                        - option "christo.wentzel"
+                                        - option "cops"
+                                        - option "corne.roets"
+                                        - option "ctk"
+                                        - option "david.w.thorpe"
+                                        - option "douglast"
+                                        - option "F-AG"
+                                        - option "F-FORG"
+                                        - option "F-MACH"
+                                        - option "F-PLG"
+                                        - option "F-SMS"
+                                        - option "F-SUB"
+                                        - option "felixa"
+                                        - option "fortune.mbedze"
+                                        - option "GSE"
+                                        - option "H-ABS*"
+                                        - option "H-AMD*"
+                                        - option "H-ARS*"
+                                        - option "H-BDS*"
+                                        - option "H-DHG"
+                                        - option "H-DSP*"
+                                        - option "H-FNC"
+                                        - option "H-HKP"
+                                        - option "H-HMR"
+                                        - option "H-HZW"
+                                        - option "H-JKS"
+                                        - option "H-KBD*"
+                                        - option "H-KPP*"
+                                        - option "H-MBY*"
+                                        - option "H-MMD"
+                                        - option "H-MRC"
+                                        - option "H-MSR*"
+                                        - option "H-PC*"
+                                        - option "H-PCC"
+                                        - option "H-PDO*"
+                                        - option "H-PRP*"
+                                        - option "H-RDM"
+                                        - option "H-RMDE*"
+                                        - option "H-RMH1"
+                                        - option "H-RMH2A"
+                                        - option "H-RMH2B"
+                                        - option "H-RMH3A"
+                                        - option "H-RMH3B"
+                                        - option "H-RMH4A"
+                                        - option "H-RMH4B"
+                                        - option "H-RMH5A"
+                                        - option "H-RMH5B"
+                                        - option "H-RMH6A"
+                                        - option "H-RMH6B"
+                                        - option "H-RMLFS"
+                                        - option "H-RMMFS1"
+                                        - option "H-RMMFS2"
+                                        - option "H-RMMFS3"
+                                        - option "H-RMMFS4"
+                                        - option "H-RMMS"
+                                        - option "H-RMPFS"
+                                        - option "H-RNP*"
+                                        - option "H-RPE"
+                                        - option "H-SCH"
+                                        - option "H-SHD*"
+                                        - option "H-SLJ*"
+                                        - option "H-TMH1*"
+                                        - option "H-TMH2A*"
+                                        - option "H-TMH2B*"
+                                        - option "H-TMH3A*"
+                                        - option "H-TMH3B*"
+                                        - option "H-TMH4A*"
+                                        - option "H-TMH4B*"
+                                        - option "H-TMH5A*"
+                                        - option "H-TMH5B*"
+                                        - option "H-TMH6A*"
+                                        - option "H-TMLFS*"
+                                        - option "H-TMMFS1*"
+                                        - option "H-TMMFS2*"
+                                        - option "H-TMMFS3*"
+                                        - option "H-TMMFS4*"
+                                        - option "H-TMMS*"
+                                        - option "H-TMPFS*"
+                                        - option "H-VDJ"
+                                        - option "H-VGP*"
+                                        - option "hennie.lategan"
+                                        - option "huemerj"
+                                        - option "jainr"
+                                        - option "Jan"
+                                        - option "jasper.jian"
+                                        - option "Jim"
+                                        - option "jluker"
+                                        - option "kruegerr"
+                                        - option "kupet00m"
+                                        - option "lenarcicb"
+                                        - option "mark.obrien"
+                                        - option "MCMC"
+                                        - option "michael.blackman"
+                                        - option "morgan.commerford"
+                                        - option "mrkulico"
+                                        - option "nelsoni"
+                                        - option "P-AIM"
+                                        - option "P-APK"
+                                        - option "P-ASP*"
+                                        - option "P-ATR"
+                                        - option "P-GPC*"
+                                        - option "P-HMS"
+                                        - option "P-HMV"
+                                        - option "P-JBR"
+                                        - option "P-KSK"
+                                        - option "P-NMA"
+                                        - option "P-PBP"
+                                        - option "P-PC2-SERV"
+                                        - option "P-RR1"
+                                        - option "P-SJP1"
+                                        - option "P-SMR"
+                                        - option "P-SR"
+                                        - option "P-SR2"
+                                        - option "P-SST*"
+                                        - option "patnaiks"
+                                        - option "pohlmannf"
+                                        - option "porterc"
+                                        - option "R-AJJ"
+                                        - option "R-AR"
+                                        - option "R-ARP"
+                                        - option "R-CP"
+                                        - option "R-DCP"
+                                        - option "R-DTC"
+                                        - option "R-GSR*"
+                                        - option "R-HHS"
+                                        - option "R-JU"
+                                        - option "R-MGB"
+                                        - option "R-MGB1"
+                                        - option "R-MRC"
+                                        - option "R-NNB"
+                                        - option "R-NP1"
+                                        - option "R-NS"
+                                        - option "R-PNG*"
+                                        - option "R-SK"
+                                        - option "R-SKU*"
+                                        - option "R-SSS*"
+                                        - option "R-TMBAY2"
+                                        - option "R-VKD*"
+                                        - option "rakesh.ramdeyal"
+                                        - option "renato.dejesus"
+                                        - option "Resource Manager"
+                                        - option "Resource Manager - John"
+                                        - option "Resource Mgr"
+                                        - option "richard.currie"
+                                        - option "richard.rohman"
+                                        - option "riley.y"
+                                        - option "rodney.boone"
+                                        - option "rodney.c.allen"
+                                        - option "rodriguezjc"
+                                        - option "sandform"
+                                        - option "sharmaa"
+                                        - option "shawn.naidoo"
+                                        - option "siddiquis"
+                                        - option "singhn"
+                                        - option "SIPL_PMG1_KSS"
+                                        - option "smoshe"
+                                        - option "sotos"
+                                        - option "stan.manship*"
+                                        - option "steinerm"
+                                        - option "strobachd"
+                                        - option "stuart.kirkman"
+                                        - option "T-RKS*"
+                                        - option "T-SMR"
+                                        - option "tommy.mulder"
+                                        - option "tony.baia"
+                                        - option "vankampenj"
+                                        - option "vanravenswaayh"
+                                        - option "warren.petersen"
+                                        - option "werner.koen"
+                                        - option "whitesell.sr"
+                                        - option "Z0000NBP"
+                                        - option "Z0000O4U"
+                                        - option "Z0000OQU"
+                                        - option "Z0003D6L"
+                                        - option "Z0007M2E"
+                                        - option "Z000RZRE"
+                                        - option "Z0020D9W"
+                                        - option "Z0026N8F"
+                                        - option "Z002CH0Y"
+                                        - option "Z002KSEJ"
+                                        - option "Z003ECYM"
+                                        - option "Z003EDHT"
+                                        - option "zane.richards"
+                            - cell [ref=f8e42]:
+                              - table [ref=f8e43]:
+                                - rowgroup [ref=f8e44]:
+                                  - row [ref=f8e45]:
+                                    - cell [ref=f8e46]:
+                                      - generic [ref=f8e47]:
+                                        - checkbox "Show Hierarchy" [checked] [ref=f8e48]
+                                        - text: Show Hierarchy
+                            - cell [ref=f8e49]:
+                              - table [ref=f8e50]:
+                                - rowgroup [ref=f8e51]:
+                                  - row [ref=f8e52]:
+                                    - cell [ref=f8e53]:
+                                      - generic [ref=f8e54]:
+                                        - checkbox "Subprojects" [ref=f8e55]
+                                        - text: Subprojects
+                          - row [ref=f8e56]:
+                            - cell [ref=f8e57]:
+                              - table [ref=f8e58]:
+                                - rowgroup [ref=f8e59]:
+                                  - row [ref=f8e60]:
+                                    - cell [ref=f8e61]:
+                                      - generic [ref=f8e62]:
+                                        - checkbox "Set Aside Reserve Units" [checked] [ref=f8e63]
+                                        - text: Set Aside Reserve Units
+                            - cell [ref=f8e64]:
+                              - table:
+                                - rowgroup:
+                                  - row
+                            - cell [ref=f8e65]:
+                              - table [ref=f8e66]:
+                                - rowgroup [ref=f8e67]:
+                                  - row [ref=f8e68]:
+                                    - cell [ref=f8e69]:
+                                      - button "Refresh" [active] [ref=f8e70] [cursor=pointer]
+                    - cell [ref=f8e71]:
+                      - table [ref=f8e72]:
+                        - rowgroup [ref=f8e73]:
+                          - row [ref=f8e74]:
+                            - cell [ref=f8e75]:
+                              - table [ref=f8e76]:
+                                - rowgroup [ref=f8e77]:
+                                  - row [ref=f8e78]:
+                                    - cell [ref=f8e79]:
+                                      - table [ref=f8e80]:
+                                        - rowgroup [ref=f8e81]:
+                                          - row [ref=f8e82]:
+                                            - cell [ref=f8e83]
+                                    - cell "Resource Shortage" [ref=f8e84]
+                                  - row [ref=f8e85]:
+                                    - cell [ref=f8e86]:
+                                      - table [ref=f8e87]:
+                                        - rowgroup [ref=f8e88]:
+                                          - row [ref=f8e89]:
+                                            - cell [ref=f8e90]
+                                    - cell "Resource Excess" [ref=f8e91]
+                    - cell [ref=f8e92]:
+                      - table [ref=f8e93]:
+                        - rowgroup [ref=f8e94]:
+                          - row [ref=f8e95]:
+                            - cell [ref=f8e96]
+                            - cell [ref=f8e97]
+                            - cell [ref=f8e98]:
+                              - button "Export To Excel 2003 or Higher" [ref=f8e100] [cursor=pointer]
+                            - cell [ref=f8e101]:
+                              - button "Display printer-friendly report" [ref=f8e103] [cursor=pointer]
+                            - cell [ref=f8e104]
+            - iframe [ref=f7e3]:
+              - img "Loading..." [ref=f9e5]

@@ -1,0 +1,7 @@
+[     372ms] TypeError: Cannot read properties of null (reading 'style')
+    at https://installera2.realization.com/conweb/TASKUPDT/FullKitlist_print.aspx?PageNumber=0&reporttype=print&GetData=1:133:54
+[     374ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://installera2.realization.com/conweb/Include/Fonts/Roboto/KFOlCnqEu92Fr1MmWUlfBBc4.woff2 @ https://installera2.realization.com/conweb/TASKUPDT/FullKitlist_print.aspx?PageNumber=0&reporttype=print&GetData=1:0
+[     374ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://installera2.realization.com/conweb/Include/Fonts/OpenSans/mem5YaGs126MiZpBA-UNirkOUuhp.woff2 @ https://installera2.realization.com/conweb/TASKUPDT/FullKitlist_print.aspx?PageNumber=0&reporttype=print&GetData=1:0
+[     662ms] ReferenceError: $ is not defined
+    at https://installera2.realization.com/conweb/TASKUPDT/FullKitlist_print.aspx?PageNumber=0&reporttype=print&GetData=1:186:1
+[    1326ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://installera2.realization.com/favicon.ico:0

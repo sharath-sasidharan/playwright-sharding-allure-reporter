@@ -1,0 +1,19 @@
+- generic [ref=e1]:
+  - heading [level=1]
+  - heading [level=2]
+  - generic [ref=e2]:
+    - main [ref=e4]:
+      - img "Realizaion" [ref=e5]
+    - main [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]: Concerto
+        - generic [ref=e13]: Project Planning & Execution
+      - generic [ref=e14]:
+        - generic [ref=e15]: Username
+        - textbox "Username" [active] [ref=e17]:
+          - /placeholder: Enter Username
+      - generic [ref=e18]:
+        - generic [ref=e19]: Password
+        - textbox "Password" [ref=e21]:
+          - /placeholder: "********"
+      - button "Log In" [ref=e23] [cursor=pointer]

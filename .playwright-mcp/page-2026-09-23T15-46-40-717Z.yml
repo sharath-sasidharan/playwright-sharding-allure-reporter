@@ -1,0 +1,126 @@
+- generic [ref=f1e1]:
+  - iframe [active] [ref=f1e2]:
+    - generic [ref=f2e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f2e2]:
+        - table [ref=f2e3]:
+          - rowgroup [ref=f2e4]:
+            - row [ref=f2e5]:
+              - cell [ref=f2e6]:
+                - table [ref=f2e7]:
+                  - rowgroup [ref=f2e8]:
+                    - row [ref=f2e9]:
+                      - cell [ref=f2e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f2e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f2e13]:
+                - table [ref=f2e14]:
+                  - rowgroup [ref=f2e15]:
+                    - row [ref=f2e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f2e17]':
+                        - generic [ref=f2e18]:
+                          - generic [ref=f2e19]: "Username: ResAdmin"
+                          - generic [ref=f2e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f2e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f2e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f2e23]:
+          - rowgroup [ref=f2e24]:
+            - row [ref=f2e25]:
+              - cell [ref=f2e26]
+              - cell [ref=f2e27]:
+                - link "Full Kit Mgt" [ref=f2e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f2e29]:
+                - link "Task Mgt" [ref=f2e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f2e31]:
+                - link "Project Mgt" [ref=f2e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f2e33]:
+                - link "Resource Mgt" [ref=f2e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f2e35]:
+                - link "Executive" [ref=f2e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f2e37]:
+                - link "Program Mgt" [ref=f2e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f2e39]:
+                - link "Pipeline Mgt" [ref=f2e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f2e41]:
+                - link "Metrics" [active] [ref=f2e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f2e43]:
+                - link "Buffer Diagnostics" [ref=f2e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f2e45]:
+                - link "P2P" [ref=f2e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f2e47]:
+                - link "Business Rules" [ref=f2e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f2e49]:
+                - link "Admin" [ref=f2e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f2e51]
+  - generic [ref=f1e3]:
+    - iframe [ref=f1e4]
+    - iframe [ref=f1e5]:
+      - generic [ref=f4e1]:
+        - iframe [ref=f4e2]:
+          - generic [ref=f24e1]:
+            - generic:
+              - table [ref=f24e3]:
+                - rowgroup [ref=f24e4]:
+                  - row [ref=f24e5]:
+                    - cell "Performance" [ref=f24e6]
+                    - cell [ref=f24e7]:
+                      - link "Throughput" [ref=f24e8] [cursor=pointer]:
+                        - /url: RulesAndResults/frm_Throughput.aspx
+                    - cell [ref=f24e9]:
+                      - link "Cycle Time" [ref=f24e10] [cursor=pointer]:
+                        - /url: RulesAndResults/CycleTime_frm.aspx
+                    - cell [ref=f24e11]:
+                      - link "On Time Delivery" [ref=f24e12] [cursor=pointer]:
+                        - /url: RulesAndResults/frm_OTD.aspx
+                    - cell [ref=f24e13]:
+                      - link "Actual Delay" [ref=f24e14] [cursor=pointer]:
+                        - /url: RulesAndResults/frm_ActualDelay.aspx
+                    - cell [ref=f24e15]:
+                      - link "Red Project Delay" [ref=f24e16] [cursor=pointer]:
+                        - /url: RulesAndResults/RPD_frm.aspx
+                  - row [ref=f24e17]:
+                    - cell "Compliance" [ref=f24e18]
+                    - cell [ref=f24e19]:
+                      - link "Pipelining" [ref=f24e20] [cursor=pointer]:
+                        - /url: RulesAndResults/Rule1_frm.aspx
+                    - cell [ref=f24e21]:
+                      - link "Full Kitting" [ref=f24e22] [cursor=pointer]:
+                        - /url: javascript:LoadFKMainMenu('FK');
+                    - cell [ref=f24e23]:
+                      - link "Buffering" [ref=f24e24] [cursor=pointer]:
+                        - /url: RulesAndResults/Rule2/frm_Rule2.aspx
+                    - cell [ref=f24e25]:
+                      - link "Task Mgt" [ref=f24e26] [cursor=pointer]:
+                        - /url: RulesAndResults/Rule3_frm.aspx
+                    - cell [ref=f24e27]:
+                      - link "Issue Resolution" [ref=f24e28] [cursor=pointer]:
+                        - /url: RulesAndResults/Rule3Escalation/Rule3Escal_frm.aspx
+              - generic [ref=f24e29]:
+                - link [ref=f24e31] [cursor=pointer]:
+                  - /url: RulesAndResults/Targets/frmTargetsSettings.aspx
+                  - img "Custom Settings" [ref=f24e37]
+                - link [ref=f24e33] [cursor=pointer]:
+                  - /url: RulesAndResults/projExclusion_Frame.aspx
+                  - img "Exclude Projects" [ref=f24e38]
+                - link [ref=f24e35] [cursor=pointer]:
+                  - /url: javascript:openWindow('/ConWeb/DOCUMENTATION/ResultsRules/ResultsRules.htm')
+                  - img "Results & Rules Help" [ref=f24e36]
+        - iframe [ref=f4e3]:
+          - generic [ref=f25e1]:
+            - heading [level=1]
+            - heading [level=2]

@@ -1,0 +1,20 @@
+- generic [ref=f6e1]:
+  - heading [level=1]
+  - heading [level=2]
+  - generic [ref=f6e2]:
+    - main [ref=f6e4]:
+      - img "Realizaion" [ref=f6e5]
+    - main [ref=f6e10]:
+      - generic [ref=f6e11]:
+        - generic [ref=f6e12]: Concerto
+        - generic [ref=f6e13]: Project Planning & Execution
+      - generic [ref=f6e14]:
+        - generic [ref=f6e15]: Username
+        - textbox "Username" [active] [ref=f6e17]:
+          - /placeholder: Enter Username
+      - generic [ref=f6e18]:
+        - generic [ref=f6e19]: Password
+        - textbox "Password" [ref=f6e21]:
+          - /placeholder: "********"
+      - button "Log In" [ref=f6e23] [cursor=pointer]
+      - generic [ref=f6e24]: Concerto logon failed. Invalid Username or Password.

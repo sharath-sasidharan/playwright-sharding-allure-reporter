@@ -1,0 +1,129 @@
+- generic [ref=f1e1]:
+  - iframe [active] [ref=f1e2]:
+    - generic [ref=f2e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f2e2]:
+        - table [ref=f2e3]:
+          - rowgroup [ref=f2e4]:
+            - row [ref=f2e5]:
+              - cell [ref=f2e6]:
+                - table [ref=f2e7]:
+                  - rowgroup [ref=f2e8]:
+                    - row [ref=f2e9]:
+                      - cell [ref=f2e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f2e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f2e13]:
+                - table [ref=f2e14]:
+                  - rowgroup [ref=f2e15]:
+                    - row [ref=f2e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f2e17]':
+                        - generic [ref=f2e18]:
+                          - generic [ref=f2e19]: "Username: ResAdmin"
+                          - generic [ref=f2e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f2e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f2e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f2e23]:
+          - rowgroup [ref=f2e24]:
+            - row [ref=f2e25]:
+              - cell [ref=f2e26]
+              - cell [ref=f2e27]:
+                - link "Full Kit Mgt" [ref=f2e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f2e29]:
+                - link "Task Mgt" [ref=f2e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f2e31]:
+                - link "Project Mgt" [ref=f2e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f2e33]:
+                - link "Resource Mgt" [ref=f2e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f2e35]:
+                - link "Executive" [ref=f2e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f2e37]:
+                - link "Program Mgt" [ref=f2e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f2e39]:
+                - link "Pipeline Mgt" [ref=f2e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f2e41]:
+                - link "Metrics" [ref=f2e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f2e43]:
+                - link "Buffer Diagnostics" [ref=f2e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f2e45]:
+                - link "P2P" [ref=f2e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f2e47]:
+                - link "Business Rules" [active] [ref=f2e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f2e49]:
+                - link "Admin" [ref=f2e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f2e51]
+  - generic [ref=f1e3]:
+    - iframe [ref=f1e4]
+    - iframe [ref=f1e5]:
+      - generic [ref=f4e1]:
+        - iframe [ref=f4e2]:
+          - table [ref=f30e2]:
+            - rowgroup [ref=f30e3]:
+              - row [ref=f30e4]:
+                - cell [ref=f30e5]:
+                  - table [ref=f30e6]:
+                    - rowgroup [ref=f30e7]:
+                      - row [ref=f30e8]:
+                        - cell [ref=f30e9]:
+                          - link [ref=f30e11] [cursor=pointer]:
+                            - /url: config/frameConfigurationTree.aspx?ReportName=BR
+        - iframe [ref=f4e3]:
+          - generic [ref=f31e1]:
+            - generic [ref=f31e2]:
+              - generic [ref=f31e3]:
+                - iframe [ref=f31e4]:
+                  - table [ref=f32e2]:
+                    - rowgroup [ref=f32e3]:
+                      - row [ref=f32e4]:
+                        - cell "select:" [ref=f32e5]
+                      - row [ref=f32e7]:
+                        - cell [ref=f32e8]:
+                          - link "Business Rules" [ref=f32e10] [cursor=pointer]:
+                            - /url: javascript:;
+                      - row [ref=f32e12]:
+                        - cell [ref=f32e13]:
+                          - link "Buffering Policy" [ref=f32e16] [cursor=pointer]:
+                            - /url: https://installera2.realization.com/conweb/centralscheduler/setbuffer.aspx?ReportName=BR&sectionfriendlyname=Buffering+Policy&sectiondesc=Specify+the+minimum+Buffer+Settings+for+your+environment+below.+Concerto+will+ensure+that+projects+checked+into+the+database+meet+the+requirements+for+buffer+size+(based+on+chain+length)+and+buffer+parameters.&groupid=1&groupname=Applications&groupfriendlyname=Business+Rules&groupdesc=
+                      - row [ref=f32e18]:
+                        - cell [ref=f32e19]:
+                          - link "Buffer Pen/%Complete Graph" [ref=f32e22] [cursor=pointer]:
+                            - /url: https://installera2.realization.com/conweb/config/configsection.aspx?ReportName=BR&sectionid=6&sectionname=BufferPenetrationColorGraph&sectionfriendlyname=Buffer+Pen%2f%25Complete+Graph&sectiondesc=This+section+includes+the+parameters+used+to+set+the+RYG+zones+for+buffers.+The+RYG+zones+are+used+by+the+Buffer+Management+process+to+prioritize+tasks.&groupid=1&groupname=Applications&groupfriendlyname=Business+Rules&groupdesc=
+                      - row [ref=f32e24]:
+                        - cell [ref=f32e25]:
+                          - link "Buffer Priorities" [ref=f32e28] [cursor=pointer]:
+                            - /url: https://installera2.realization.com/conweb/config/configsection.aspx?ReportName=BR&sectionid=7&sectionname=BufferPriorities&sectionfriendlyname=Buffer+Priorities&sectiondesc=This+section+includes+the+parameters+that+are+used+to+set+the+relative+priorities+for+buffers.+The+Buffer+Management+process+uses+relative+priorities+to+prioritize+tasks.&groupid=1&groupname=Applications&groupfriendlyname=Business+Rules&groupdesc=
+                      - row [ref=f32e30]:
+                        - cell [ref=f32e31]:
+                          - link "CCBM Scheduling" [ref=f32e34] [cursor=pointer]:
+                            - /url: https://installera2.realization.com/conweb/config/configsection.aspx?ReportName=BR&sectionid=5&sectionname=CCBMScheduling&sectionfriendlyname=CCBM+Scheduling&sectiondesc=This+section+includes+the+scheduling+parameters+used+by+the+Critical+Chain+client+and+the+Buffer+Management+process.+The+parameters+will+be+downloaded+to+the+Critical+Chain+client+whenever+the+Synchronize+System+Config+option+is+used+in+the+client.&groupid=1&groupname=Applications&groupfriendlyname=Business+Rules&groupdesc=
+                - iframe
+              - generic [ref=f31e5]:
+                - iframe [ref=f31e6]:
+                  - generic [ref=f34e1]:
+                    - heading [level=1]
+                    - heading [level=2]
+                - generic [ref=f31e7]:
+                  - iframe [ref=f31e8]:
+                    - generic [ref=f35e1]:
+                      - heading [level=1]
+                      - heading [level=2]
+                  - iframe [ref=f31e9]:
+                    - generic [ref=f36e1]:
+                      - heading [level=1]
+                      - heading [level=2]
+            - iframe

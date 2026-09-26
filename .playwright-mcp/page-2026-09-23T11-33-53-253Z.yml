@@ -1,0 +1,140 @@
+- generic [ref=f7e1]:
+  - iframe [ref=f7e2]:
+    - generic [ref=f8e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f8e2]:
+        - table [ref=f8e3]:
+          - rowgroup [ref=f8e4]:
+            - row [ref=f8e5]:
+              - cell [ref=f8e6]:
+                - table [ref=f8e7]:
+                  - rowgroup [ref=f8e8]:
+                    - row [ref=f8e9]:
+                      - cell [ref=f8e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f8e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f8e13]:
+                - table [ref=f8e14]:
+                  - rowgroup [ref=f8e15]:
+                    - row [ref=f8e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f8e17]':
+                        - generic [ref=f8e18]:
+                          - generic [ref=f8e19]: "Username: ResAdmin"
+                          - generic [ref=f8e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f8e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f8e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f8e23]:
+          - rowgroup [ref=f8e24]:
+            - row [ref=f8e25]:
+              - cell [ref=f8e26]
+              - cell [ref=f8e27]:
+                - link "Full Kit Mgt" [ref=f8e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f8e29]:
+                - link "Task Mgt" [ref=f8e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f8e31]:
+                - link "Project Mgt" [ref=f8e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f8e33]:
+                - link "Resource Mgt" [ref=f8e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f8e35]:
+                - link "Executive" [ref=f8e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f8e37]:
+                - link "Program Mgt" [ref=f8e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f8e39]:
+                - link "Pipeline Mgt" [ref=f8e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f8e41]:
+                - link "Metrics" [ref=f8e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f8e43]:
+                - link "Buffer Diagnostics" [ref=f8e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f8e45]:
+                - link "P2P" [ref=f8e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f8e47]:
+                - link "Business Rules" [ref=f8e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f8e49]:
+                - link "Admin" [ref=f8e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f8e51]
+  - generic [ref=f7e3]:
+    - iframe [ref=f7e4]
+    - iframe [active] [ref=f7e5]:
+      - generic [ref=f10e1]:
+        - iframe [active] [ref=f10e2]:
+          - generic [ref=f12e1]:
+            - heading [level=1]
+            - heading [level=2]
+            - main [ref=f12e2]:
+              - table [ref=f12e3]:
+                - rowgroup [ref=f12e4]:
+                  - row [ref=f12e5]:
+                    - cell [ref=f12e6]:
+                      - table [ref=f12e7]:
+                        - rowgroup [ref=f12e8]:
+                          - row [ref=f12e9]:
+                            - cell [ref=f12e10]:
+                              - generic [ref=f12e11]:
+                                - generic [ref=f12e13]:
+                                  - text: Reports
+                                  - link "Project Status" [active] [ref=f12e14] [cursor=pointer]:
+                                    - /url: gridrpt/portrpt.aspx
+                                  - link "Escalated Tasks" [ref=f12e15] [cursor=pointer]:
+                                    - /url: gridrpt/StuckTask_frm.aspx
+                                  - link "Pipeline View" [ref=f12e16] [cursor=pointer]:
+                                    - /url: gridrpt/swimlanefrm.aspx
+                                  - link "Project Control" [ref=f12e17] [cursor=pointer]:
+                                    - /url: gridrpt/npsrpt.aspx
+                                  - link "P2P Control" [ref=f12e18] [cursor=pointer]:
+                                    - /url: progplan/projStatus.aspx
+                                  - link "Task List" [ref=f12e19] [cursor=pointer]:
+                                    - /url: taskupdt/tasklistscreen_frm.aspx
+                                  - link "Assign Task Mgrs" [ref=f12e20] [cursor=pointer]:
+                                    - /url: taskupdt/TaskManagerAssignments.aspx
+                                  - link "WIP Report" [ref=f12e21] [cursor=pointer]:
+                                    - /url: gridrpt/wipreport/wipreport.html
+                                  - text: Projects
+                                  - link "Modify" [ref=f12e22] [cursor=pointer]:
+                                    - /url: ProjectManagement/pmrpt.aspx?Rpt=MP
+                                  - link "Validate" [ref=f12e23] [cursor=pointer]:
+                                    - /url: ProjectManagement/pmvalidate.aspx
+                                  - link "Project Repair" [ref=f12e24] [cursor=pointer]:
+                                    - /url: ProjectManagement/prrpt.aspx
+                                  - link "Edit Info" [ref=f12e25] [cursor=pointer]:
+                                    - /url: ProjectManagement/pirpt.aspx
+                                  - link "Create New Plan" [ref=f12e26] [cursor=pointer]:
+                                    - /url: ""
+                                  - link "Upload Project File" [ref=f12e27] [cursor=pointer]:
+                                    - /url: ProjectManagement/pmAdd.aspx
+                                  - link "Upload Excel" [ref=f12e28] [cursor=pointer]:
+                                    - /url: ProjectManagement/pmUploadExcel.aspx
+                                  - link "Bulk Project Upload" [ref=f12e29] [cursor=pointer]:
+                                    - /url: ""
+                                  - link "Download Excel Template" [ref=f12e30] [cursor=pointer]:
+                                    - /url: ProjectManagement/DownloadUtility.aspx?type=excel
+                                  - link "Download JSON Template" [ref=f12e31] [cursor=pointer]:
+                                    - /url: ProjectManagement/DownloadUtility.aspx?type=json
+                                - button "Show more menu items" [ref=f12e32] [cursor=pointer]: More >
+                            - cell [ref=f12e33]:
+                              - link [ref=f12e34] [cursor=pointer]:
+                                - /url: /ConWeb/pdf/Concerto Project Manager QRG.pdf
+                                - img "Execution View Help" [ref=f12e35]
+        - iframe [ref=f10e3]:
+          - iframe [ref=f13e2]:
+            - generic [ref=f15e6]:
+              - generic [ref=f15e7]:
+                - generic:
+                  - generic "Filters":
+                    - img [ref=f15e8] [cursor=pointer]
+              - generic [ref=f15e22]:
+                - heading [level=4]

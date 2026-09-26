@@ -1,0 +1,20 @@
+- generic [ref=f61e1]:
+  - heading [level=1]
+  - heading [level=2]
+  - generic [ref=f61e2]:
+    - main [ref=f61e4]:
+      - img "Realizaion" [ref=f61e5]
+    - main [ref=f61e10]:
+      - generic [ref=f61e11]:
+        - generic [ref=f61e12]: Concerto
+        - generic [ref=f61e13]: Project Planning & Execution
+      - generic [ref=f61e14]:
+        - generic [ref=f61e15]: Username
+        - textbox "Username" [active] [ref=f61e17]:
+          - /placeholder: Enter Username
+      - generic [ref=f61e18]:
+        - generic [ref=f61e19]: Password
+        - textbox "Password" [ref=f61e21]:
+          - /placeholder: "********"
+      - button "Log In" [ref=f61e23] [cursor=pointer]
+      - generic [ref=f61e24]: You logged off at 9/23/2026 5:09:01 AM

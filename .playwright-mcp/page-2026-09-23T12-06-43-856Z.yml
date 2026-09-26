@@ -1,0 +1,179 @@
+- generic [ref=f7e1]:
+  - iframe [active] [ref=f7e2]:
+    - generic [ref=f8e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f8e2]:
+        - table [ref=f8e3]:
+          - rowgroup [ref=f8e4]:
+            - row [ref=f8e5]:
+              - cell [ref=f8e6]:
+                - table [ref=f8e7]:
+                  - rowgroup [ref=f8e8]:
+                    - row [ref=f8e9]:
+                      - cell [ref=f8e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f8e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f8e13]:
+                - table [ref=f8e14]:
+                  - rowgroup [ref=f8e15]:
+                    - row [ref=f8e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f8e17]':
+                        - generic [ref=f8e18]:
+                          - generic [ref=f8e19]: "Username: ResAdmin"
+                          - generic [ref=f8e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f8e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f8e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f8e23]:
+          - rowgroup [ref=f8e24]:
+            - row [ref=f8e25]:
+              - cell [ref=f8e26]
+              - cell [ref=f8e27]:
+                - link "Full Kit Mgt" [ref=f8e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f8e29]:
+                - link "Task Mgt" [ref=f8e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f8e31]:
+                - link "Project Mgt" [ref=f8e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f8e33]:
+                - link "Resource Mgt" [ref=f8e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f8e35]:
+                - link "Executive" [active] [ref=f8e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f8e37]:
+                - link "Program Mgt" [ref=f8e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f8e39]:
+                - link "Pipeline Mgt" [ref=f8e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f8e41]:
+                - link "Metrics" [ref=f8e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f8e43]:
+                - link "Buffer Diagnostics" [ref=f8e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f8e45]:
+                - link "P2P" [ref=f8e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f8e47]:
+                - link "Business Rules" [ref=f8e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f8e49]:
+                - link "Admin" [ref=f8e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f8e51]
+  - generic [ref=f7e3]:
+    - iframe [ref=f7e4]
+    - iframe [ref=f7e5]:
+      - generic [ref=f10e1]:
+        - iframe
+        - iframe [ref=f10e2]:
+          - table [ref=f28e3]:
+            - rowgroup [ref=f28e4]:
+              - row [ref=f28e5]:
+                - cell [ref=f28e6]:
+                  - table [ref=f28e7]:
+                    - rowgroup [ref=f28e8]:
+                      - row [ref=f28e9]:
+                        - cell [ref=f28e10]:
+                          - table [ref=f28e11]:
+                            - rowgroup [ref=f28e12]:
+                              - row [ref=f28e13]:
+                                - cell [ref=f28e14]:
+                                  - table [ref=f28e15]:
+                                    - rowgroup [ref=f28e16]:
+                                      - row [ref=f28e17]:
+                                        - cell "Division" [ref=f28e18]
+                                        - cell ".All Division" [ref=f28e19]:
+                                          - combobox [disabled] [ref=f28e20]:
+                                            - option ".All Division" [selected]
+                                            - option "9WOOD"
+                                            - option "ATAL"
+                                            - option "CENTURION"
+                                            - option "CMG TEST"
+                                            - option "COHU"
+                                            - option "COOKMEDICAL"
+                                            - option "DEFAULT"
+                                            - option "DEV"
+                                            - option "EVAL"
+                                            - option "F5"
+                                            - option "FLYINGLOGIC"
+                                            - option "FRCE"
+                                            - option "FRCSE"
+                                            - option "FRCSETEST"
+                                            - option "GOLDRATTUK"
+                                            - option "HALIO"
+                                            - option "HB"
+                                            - option "IMPLEMENTATIONS"
+                                            - option "L AND T DEMO"
+                                            - option "LAYTON"
+                                            - option "MICROSTEP"
+                                            - option "PCA"
+                                            - option "PH_LOCAL"
+                                            - option "PIPELINE"
+                                            - option "PRA"
+                                            - option "PRES HELO"
+                                            - option "PROJECT CONTROL"
+                                            - option "QATAR"
+                                            - option "RAYSTEST"
+                                            - option "RCPI"
+                                            - option "REEL ALESA"
+                                            - option "SE"
+                                            - option "SIEMENS GEN"
+                                            - option "SIEMENS POWER"
+                                            - option "SPEARHEAD"
+                                            - option "SYNERGIC"
+                                            - option "ZIM"
+                                - cell [ref=f28e21]:
+                                  - table [ref=f28e22]:
+                                    - rowgroup [ref=f28e23]:
+                                      - row [ref=f28e24]:
+                                        - cell "Portfolio" [ref=f28e25]
+                                        - cell ".All Portfolio" [ref=f28e26]:
+                                          - combobox [ref=f28e27]:
+                                            - option ".All Portfolio" [selected]
+                                            - option "AAA Vascular"
+                                            - option "P1"
+                                            - option "P2"
+                                            - option "P3"
+                                - cell [ref=f28e28]:
+                                  - table [ref=f28e29]:
+                                    - rowgroup [ref=f28e30]:
+                                      - row [ref=f28e31]:
+                                        - cell "Template(s)" [ref=f28e32]
+                                        - cell ".All Template(s)" [ref=f28e33]:
+                                          - combobox [ref=f28e34]:
+                                            - option ".All Template(s)" [selected]
+                                            - option "N"
+                              - row [ref=f28e35]:
+                                - cell [ref=f28e36]:
+                                  - table [ref=f28e37]:
+                                    - rowgroup [ref=f28e38]:
+                                      - row [ref=f28e39]:
+                                        - cell "Customer" [ref=f28e40]
+                                        - cell ".All Customer" [ref=f28e41]:
+                                          - combobox [ref=f28e42]:
+                                            - option ".All Customer" [selected]
+                                            - option "Customer1"
+                                            - option "Customer2"
+                                            - option "Customer3"
+                                - cell [ref=f28e43]:
+                                  - table:
+                                    - rowgroup:
+                                      - row
+                                - cell [ref=f28e44]:
+                                  - table [ref=f28e45]:
+                                    - rowgroup [ref=f28e46]:
+                                      - row [ref=f28e47]:
+                                        - cell [ref=f28e48]:
+                                          - button "Refresh" [ref=f28e49] [cursor=pointer]
+                - cell [ref=f28e50]:
+                  - link [ref=f28e52] [cursor=pointer]:
+                    - /url: ../pdf/Concerto Executive QRG.pdf
+                    - img "Execution View Help" [ref=f28e53]
+                  - img "Action Items" [ref=f28e55] [cursor=pointer]

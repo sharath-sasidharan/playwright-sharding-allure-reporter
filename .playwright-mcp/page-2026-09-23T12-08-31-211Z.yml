@@ -1,0 +1,94 @@
+- generic [ref=f38e1]:
+  - iframe [active] [ref=f38e2]:
+    - generic [ref=f39e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f39e2]:
+        - table [ref=f39e3]:
+          - rowgroup [ref=f39e4]:
+            - row [ref=f39e5]:
+              - cell [ref=f39e6]:
+                - table [ref=f39e7]:
+                  - rowgroup [ref=f39e8]:
+                    - row [ref=f39e9]:
+                      - cell [ref=f39e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f39e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f39e13]:
+                - table [ref=f39e14]:
+                  - rowgroup [ref=f39e15]:
+                    - row [ref=f39e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f39e17]':
+                        - generic [ref=f39e18]:
+                          - generic [ref=f39e19]: "Username: ResAdmin"
+                          - generic [ref=f39e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f39e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f39e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f39e23]:
+          - rowgroup [ref=f39e24]:
+            - row [ref=f39e25]:
+              - cell [ref=f39e26]
+              - cell [ref=f39e27]:
+                - link "Full Kit Mgt" [ref=f39e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f39e29]:
+                - link "Task Mgt" [ref=f39e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f39e31]:
+                - link "Project Mgt" [ref=f39e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f39e33]:
+                - link "Resource Mgt" [ref=f39e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f39e35]:
+                - link "Executive" [ref=f39e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f39e37]:
+                - link "Program Mgt" [ref=f39e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f39e39]:
+                - link "Pipeline Mgt" [ref=f39e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f39e41]:
+                - link "Metrics" [ref=f39e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f39e43]:
+                - link "Buffer Diagnostics" [active] [ref=f39e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f39e45]:
+                - link "P2P" [ref=f39e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f39e47]:
+                - link "Business Rules" [ref=f39e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f39e49]:
+                - link "Admin" [ref=f39e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f39e51]
+  - generic [ref=f38e3]:
+    - iframe [ref=f38e4]
+    - iframe [ref=f38e5]:
+      - generic [ref=f41e1]:
+        - iframe [ref=f41e2]:
+          - table [ref=f45e2]:
+            - rowgroup [ref=f45e3]:
+              - row [ref=f45e4]:
+                - cell [ref=f45e5]:
+                  - table [ref=f45e6]:
+                    - rowgroup [ref=f45e7]:
+                      - row [ref=f45e8]:
+                        - cell [ref=f45e9]:
+                          - text: Buffer Consumption
+                          - link "By Help Needed" [ref=f45e10] [cursor=pointer]:
+                            - /url: reasoncodes/reasonCodeChartsFrm.aspx?chartid=0
+                          - link "By Resources" [ref=f45e11] [cursor=pointer]:
+                            - /url: reasoncodes/reasonCodeChartsFrm.aspx?chartid=2
+                          - link "By Task Managers" [ref=f45e12] [cursor=pointer]:
+                            - /url: reasoncodes/reasonCodeChartsFrm.aspx?chartid=1
+                          - link "By Task Description" [ref=f45e13] [cursor=pointer]:
+                            - /url: reasoncodes/reasonCodeChartsFrm.aspx?chartid=5
+                          - link "Penetrating Chains" [ref=f45e14] [cursor=pointer]:
+                            - /url: reasoncodes/reasonCodeChainFrm.aspx
+        - iframe [ref=f41e3]

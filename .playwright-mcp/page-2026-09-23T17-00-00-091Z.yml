@@ -1,0 +1,274 @@
+- generic [ref=f1e1]:
+  - iframe [ref=f1e2]:
+    - generic [ref=f2e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f2e2]:
+        - table [ref=f2e3]:
+          - rowgroup [ref=f2e4]:
+            - row [ref=f2e5]:
+              - cell [ref=f2e6]:
+                - table [ref=f2e7]:
+                  - rowgroup [ref=f2e8]:
+                    - row [ref=f2e9]:
+                      - cell [ref=f2e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f2e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f2e13]:
+                - table [ref=f2e14]:
+                  - rowgroup [ref=f2e15]:
+                    - row [ref=f2e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f2e17]':
+                        - generic [ref=f2e18]:
+                          - generic [ref=f2e19]: "Username: ResAdmin"
+                          - generic [ref=f2e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f2e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f2e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f2e23]:
+          - rowgroup [ref=f2e24]:
+            - row [ref=f2e25]:
+              - cell [ref=f2e26]
+              - cell [ref=f2e27]:
+                - link "Full Kit Mgt" [ref=f2e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f2e29]:
+                - link "Task Mgt" [ref=f2e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f2e31]:
+                - link "Project Mgt" [ref=f2e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f2e33]:
+                - link "Resource Mgt" [ref=f2e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f2e35]:
+                - link "Executive" [ref=f2e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f2e37]:
+                - link "Program Mgt" [ref=f2e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f2e39]:
+                - link "Pipeline Mgt" [ref=f2e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f2e41]:
+                - link "Metrics" [ref=f2e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f2e43]:
+                - link "Buffer Diagnostics" [ref=f2e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f2e45]:
+                - link "P2P" [ref=f2e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f2e47]:
+                - link "Business Rules" [ref=f2e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f2e49]:
+                - link "Admin" [ref=f2e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f2e51]
+  - generic [ref=f1e3]:
+    - iframe [ref=f1e4]
+    - iframe [active] [ref=f1e5]:
+      - generic [ref=f4e1]:
+        - iframe [ref=f4e2]:
+          - generic [ref=f8e1]:
+            - heading [level=1]
+            - heading [level=2]
+            - main [ref=f8e2]:
+              - table [ref=f8e3]:
+                - rowgroup [ref=f8e4]:
+                  - row [ref=f8e5]:
+                    - cell [ref=f8e6]:
+                      - table [ref=f8e7]:
+                        - rowgroup [ref=f8e8]:
+                          - row [ref=f8e9]:
+                            - cell [ref=f8e10]:
+                              - generic [ref=f8e11]:
+                                - generic [ref=f8e13]:
+                                  - text: Reports
+                                  - link "Project Status" [ref=f8e14] [cursor=pointer]:
+                                    - /url: gridrpt/portrpt.aspx
+                                  - link "Escalated Tasks" [ref=f8e15] [cursor=pointer]:
+                                    - /url: gridrpt/StuckTask_frm.aspx
+                                  - link "Pipeline View" [ref=f8e16] [cursor=pointer]:
+                                    - /url: gridrpt/swimlanefrm.aspx
+                                  - link "Project Control" [ref=f8e17] [cursor=pointer]:
+                                    - /url: gridrpt/npsrpt.aspx
+                                  - link "P2P Control" [ref=f8e18] [cursor=pointer]:
+                                    - /url: progplan/projStatus.aspx
+                                  - link "Task List" [ref=f8e19] [cursor=pointer]:
+                                    - /url: taskupdt/tasklistscreen_frm.aspx
+                                  - link "Assign Task Mgrs" [ref=f8e20] [cursor=pointer]:
+                                    - /url: taskupdt/TaskManagerAssignments.aspx
+                                  - link "WIP Report" [ref=f8e21] [cursor=pointer]:
+                                    - /url: gridrpt/wipreport/wipreport.html
+                                  - text: Projects
+                                  - link "Modify" [ref=f8e22] [cursor=pointer]:
+                                    - /url: ProjectManagement/pmrpt.aspx?Rpt=MP
+                                  - link "Validate" [ref=f8e23] [cursor=pointer]:
+                                    - /url: ProjectManagement/pmvalidate.aspx
+                                  - link "Project Repair" [ref=f8e24] [cursor=pointer]:
+                                    - /url: ProjectManagement/prrpt.aspx
+                                  - link "Edit Info" [ref=f8e25] [cursor=pointer]:
+                                    - /url: ProjectManagement/pirpt.aspx
+                                  - link "Create New Plan" [ref=f8e26] [cursor=pointer]:
+                                    - /url: ""
+                                  - link "Upload Project File" [ref=f8e27] [cursor=pointer]:
+                                    - /url: ProjectManagement/pmAdd.aspx
+                                  - link "Upload Excel" [ref=f8e28] [cursor=pointer]:
+                                    - /url: ProjectManagement/pmUploadExcel.aspx
+                                  - link "Bulk Project Upload" [ref=f8e29] [cursor=pointer]:
+                                    - /url: ""
+                                  - link "Download Excel Template" [ref=f8e30] [cursor=pointer]:
+                                    - /url: ProjectManagement/DownloadUtility.aspx?type=excel
+                                  - link "Download JSON Template" [ref=f8e31] [cursor=pointer]:
+                                    - /url: ProjectManagement/DownloadUtility.aspx?type=json
+                                - button "Show more menu items" [ref=f8e32] [cursor=pointer]: More >
+                            - cell [ref=f8e33]:
+                              - link [ref=f8e34] [cursor=pointer]:
+                                - /url: /ConWeb/pdf/Concerto Project Manager QRG.pdf
+                                - img "Execution View Help" [ref=f8e35]
+        - iframe [active] [ref=f4e3]:
+          - iframe [active] [ref=f9e2]:
+            - generic [ref=f11e6]:
+              - generic [ref=f11e7]:
+                - generic:
+                  - generic "Filters":
+                    - img [ref=f11e8] [cursor=pointer]
+              - generic [ref=f11e11]:
+                - generic [ref=f11e24]:
+                  - generic [ref=f11e28]:
+                    - generic [ref=f11e30]:
+                      - textbox "Search by project name" [active] [ref=f11e33]: Gama
+                      - button [ref=f11e1620] [cursor=pointer]
+                    - generic [ref=f11e35]:
+                      - generic "Export To Excel 2003 or Higher" [ref=f11e36] [cursor=pointer]:
+                        - img "Export to Excel" [ref=f11e37]
+                      - generic "Printer-Friendly Report" [ref=f11e38] [cursor=pointer]:
+                        - img "Printer-Friendly Report" [ref=f11e39]
+                      - generic "Export Action Items To Excel" [ref=f11e40] [cursor=pointer]:
+                        - img "Export Action Items" [ref=f11e41]
+                      - generic "Key Event & Milestone Report" [ref=f11e42] [cursor=pointer]:
+                        - img "Key Event & Milestone Report" [ref=f11e43]
+                      - generic "Hide Charts" [ref=f11e45] [cursor=pointer]
+                      - generic "Hide Delay Summary" [ref=f11e51] [cursor=pointer]
+                  - generic [ref=f11e67]:
+                    - generic [ref=f11e68] [cursor=pointer]:
+                      - generic [ref=f11e69]:
+                        - generic [ref=f11e70]: "2"
+                        - generic [ref=f11e71]: Projects due within 30 days
+                      - generic [ref=f11e73]:
+                        - generic [ref=f11e74]: 0 On time
+                        - generic [ref=f11e76]: 0 Late
+                        - generic [ref=f11e78]: 2 Very late
+                    - generic [ref=f11e80] [cursor=pointer]:
+                      - generic [ref=f11e81]:
+                        - generic [ref=f11e82]: "0"
+                        - generic [ref=f11e83]: Projects due between 31-90 days
+                      - generic [ref=f11e85]:
+                        - generic [ref=f11e86]: 0 On time
+                        - generic [ref=f11e88]: 0 Late
+                        - generic [ref=f11e90]: 0 Very late
+                    - generic [ref=f11e92] [cursor=pointer]:
+                      - generic [ref=f11e93]:
+                        - generic [ref=f11e94]: "0"
+                        - generic [ref=f11e95]: Projects due beyond 90 days
+                      - generic [ref=f11e97]:
+                        - generic [ref=f11e98]: 0 On time
+                        - generic [ref=f11e100]: 0 Late
+                        - generic [ref=f11e102]: 0 Very late
+                - generic [ref=f11e16]:
+                  - generic [ref=f11e18]:
+                    - generic [ref=f11e107]:
+                      - button "Project Status" [ref=f11e108] [cursor=pointer]
+                      - button "Project Trend Chart" [ref=f11e109] [cursor=pointer]
+                      - button "Full Kit" [ref=f11e110] [cursor=pointer]
+                    - table [ref=f11e117]:
+                      - rowgroup [ref=f11e118]:
+                        - row [ref=f11e119] [cursor=pointer]:
+                          - columnheader "Project Tools" [ref=f11e120]
+                          - columnheader "Project Name" [ref=f11e121]
+                          - columnheader "Project Type" [ref=f11e122]
+                          - columnheader "Project UID" [ref=f11e123]
+                          - columnheader "Project Status" [ref=f11e124]
+                          - columnheader "Description" [ref=f11e125]
+                          - columnheader "Due Date" [ref=f11e126]
+                          - columnheader "Projected Date" [ref=f11e127]
+                          - columnheader "Delay" [ref=f11e128]
+                          - columnheader "Buffer Consumed" [ref=f11e129]
+                          - columnheader "Longest Chain Complete" [ref=f11e130]
+                          - columnheader "Penetrating Task" [ref=f11e131]
+                          - columnheader "Last Update" [ref=f11e132]
+                          - columnheader "Help Needed" [ref=f11e133]
+                          - columnheader "Comments" [ref=f11e134]
+                          - columnheader "Buffer Trend" [ref=f11e135]
+                          - columnheader "Remaining Float" [ref=f11e136]
+                          - columnheader "Default Sort" [ref=f11e137]
+                      - rowgroup [ref=f11e141]:
+                        - row [ref=f11e1623]:
+                          - cell [ref=f11e1624] [cursor=pointer]:
+                            - generic [ref=f11e144]:
+                              - generic "Chain View - Gantt" [ref=f11e145]
+                              - generic "Task List" [ref=f11e148]
+                              - generic "Full Kit Report" [ref=f11e1625]
+                              - generic "Project Review" [ref=f11e157]
+                          - cell [ref=f11e1626]:
+                            - generic "Buffer Management has not been run on this project." [ref=f11e167] [cursor=pointer]:
+                              - link "Gama2" [ref=f11e1627]:
+                                - /url: /conweb/ProjectManagement/GnattView/Gantt/997/checkoutReadOnly
+                              - text: "!"
+                          - cell [ref=f11e169]
+                          - cell "997" [ref=f11e1628]
+                          - cell "In Process" [ref=f11e171]
+                          - cell "Project End" [ref=f11e172]
+                          - cell "9/2/2023" [ref=f11e1629]
+                          - cell "7/30/2026" [ref=f11e1630]
+                          - cell "1062d" [ref=f11e1631]
+                          - cell "32000%, 320d/1d" [ref=f11e176]
+                          - cell "-575%, -6d/1d" [ref=f11e1632]
+                          - cell "Project/Milestone Penetrating Chain Report t1" [ref=f11e1633]:
+                            - generic [ref=f11e179]:
+                              - generic "Project/Milestone Penetrating Chain Report" [ref=f11e180]:
+                                - img [ref=f11e181] [cursor=pointer]
+                              - generic [ref=f11e1634]: t1
+                          - cell "7/16/2026 3:24:55 AM" [ref=f11e1635]
+                          - cell [ref=f11e189]
+                          - cell [ref=f11e190]
+                          - cell "NA" [ref=f11e191]
+                          - cell "-1362d" [ref=f11e1636]
+                          - cell [ref=f11e193]
+                        - row [ref=f11e1637]:
+                          - cell [ref=f11e195] [cursor=pointer]:
+                            - generic [ref=f11e196]:
+                              - generic "Chain View - Gantt" [ref=f11e197]
+                              - generic "Task List" [ref=f11e200]
+                              - generic "Full Kit Report - 1 Full Kit item due soon" [ref=f11e204]: "1"
+                              - generic "Project Review" [ref=f11e209]
+                          - cell [ref=f11e1638]:
+                            - generic "Buffer Management has not been run on this project." [ref=f11e219] [cursor=pointer]:
+                              - link "Gama1" [ref=f11e1639]:
+                                - /url: /conweb/ProjectManagement/GnattView/Gantt/996/checkoutReadOnly
+                              - text: "!"
+                          - cell [ref=f11e221]
+                          - cell "996" [ref=f11e1640]
+                          - cell "In Process" [ref=f11e223]
+                          - cell "Project End" [ref=f11e224]
+                          - cell "8/30/2023" [ref=f11e1641]
+                          - cell "9/15/2023" [ref=f11e1642]
+                          - cell "16d" [ref=f11e1643]
+                          - cell "400%, 12d/3d" [ref=f11e1644]
+                          - cell "0%, 0d/5d" [ref=f11e1645]
+                          - cell "Project/Milestone Penetrating Chain Report Task1" [ref=f11e1646]:
+                            - generic [ref=f11e231]:
+                              - generic "Project/Milestone Penetrating Chain Report" [ref=f11e232]:
+                                - img [ref=f11e233] [cursor=pointer]
+                              - generic [ref=f11e1647]: Task1
+                          - cell "9/6/2023 11:09:00 PM" [ref=f11e1648]
+                          - cell [ref=f11e241]
+                          - cell [ref=f11e242]
+                          - cell "NA" [ref=f11e243]
+                          - cell "-12d" [ref=f11e1649]
+                          - cell [ref=f11e245]
+                  - generic [ref=f11e22]:
+                    - heading [level=4]

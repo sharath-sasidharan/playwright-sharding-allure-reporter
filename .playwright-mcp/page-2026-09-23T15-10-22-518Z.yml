@@ -1,0 +1,20 @@
+- generic [active] [ref=f12e1]:
+  - heading [level=1]
+  - heading [level=2]
+  - generic [ref=f12e2]:
+    - main [ref=f12e4]:
+      - img "Realizaion" [ref=f12e5]
+    - main [ref=f12e10]:
+      - generic [ref=f12e11]:
+        - generic [ref=f12e12]: Concerto
+        - generic [ref=f12e13]: Project Planning & Execution
+      - generic [ref=f12e14]:
+        - generic [ref=f12e15]: Username
+        - textbox "Username" [ref=f12e17]:
+          - /placeholder: Enter Username
+      - generic [ref=f12e18]:
+        - generic [ref=f12e19]: Password
+        - textbox "Password" [ref=f12e21]:
+          - /placeholder: "********"
+      - button "Log In" [ref=f12e23] [cursor=pointer]
+      - generic [ref=f12e24]: Your session has timed-out. Please re-login.

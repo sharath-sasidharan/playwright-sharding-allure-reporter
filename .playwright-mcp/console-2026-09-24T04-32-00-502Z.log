@@ -1,0 +1,21 @@
+[   16081ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://installera2.realization.com/conweb/Include/Fonts/OpenSans/mem5YaGs126MiZpBA-UNirkOUuhp.woff2 @ https://installera2.realization.com/conweb/succeed.aspx:182
+[   38687ms] [LOG] O @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   40100ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   40122ms] [WARNING] Operation logs not saved: missing userID {projectID: -1, userID: undefined} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   40125ms] [LOG] O @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   40136ms] [LOG] O @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   41404ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   41405ms] [LOG] loading filter api loading... {Data: Object, Errors: Array(0), LogInfo: null, Metrics: Object, ReturnTypeCode: 1} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   41734ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   42402ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   42412ms] [LOG] Setting invalid tasks with old props {} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   49079ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   49464ms] [LOG] Setting invalid tasks with old props {} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   49467ms] [LOG] checkoutProjectFromServer {Data: Object, Errors: Array(0), LogInfo: null, Metrics: Object, ReturnTypeCode: 1} @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   49467ms] [LOG] End of calling checkoutproject project API: 10:02:49 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   51390ms] [WARNING] Deprecation warning: use moment.updateLocale(localeName, config) to change an existing locale. moment.defineLocale(localeName, config) should only be used for creating a new locale See http://momentjs.com/guides/#/warnings/define-locale/ for more info. @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   54010ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   54033ms] [LOG] Division Name in Load SPI Project  @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   54033ms] [LOG] Time to convert from SPI DS to Gantt DS: 1 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   54401ms] [LOG] 200 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1
+[   54733ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/media/fa-solid-900.f840beca95c7727dd360.woff2 @ https://installera2.realization.com/ConWeb/ProjectManagement/GnattView/Gantt/static/js/main.49adaff3.js:1

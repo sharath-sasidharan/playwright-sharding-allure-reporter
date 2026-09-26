@@ -1,0 +1,11 @@
+[   22059ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://installera2.realization.com/conweb/Include/Fonts/OpenSans/mem5YaGs126MiZpBA-UNirkOUuhp.woff2 @ https://installera2.realization.com/conweb/succeed.aspx:182
+[   58146ms] [LOG] Logs dumped from all screens:  Map(4) @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[   58457ms] [LOG] Logs saved successfully @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[36434026ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://installera2.realization.com/conweb/AppServices/ProjectStatusService.svc/GetProjectsByDelay:0
+[36434030ms] [ERROR] Unauthorized access - 401 @ https://installera2.realization.com/conweb/WebApplication/webApp/bundle.js:1
+[36434048ms] [LOG] Search Failed {status: PARSING_ERROR, originalStatus: 401, data: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Stric…>
+ </fieldset></div>
+</div>
+</body>
+</html>
+, error: SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON} @ https://installera2.realization.com/conweb/WebApplication/webApp/6768.bac2c6e7.js:1

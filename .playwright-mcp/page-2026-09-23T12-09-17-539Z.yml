@@ -1,0 +1,162 @@
+- generic [ref=f38e1]:
+  - iframe [active] [ref=f38e2]:
+    - generic [ref=f39e1]:
+      - heading [level=1]
+      - heading [level=2]
+      - main [ref=f39e2]:
+        - table [ref=f39e3]:
+          - rowgroup [ref=f39e4]:
+            - row [ref=f39e5]:
+              - cell [ref=f39e6]:
+                - table [ref=f39e7]:
+                  - rowgroup [ref=f39e8]:
+                    - row [ref=f39e9]:
+                      - cell [ref=f39e10]:
+                        - link "Concerto Project Planning & Execution" [ref=f39e11] [cursor=pointer]:
+                          - /url: javascript:GoToMainPage();
+              - cell [ref=f39e13]:
+                - table [ref=f39e14]:
+                  - rowgroup [ref=f39e15]:
+                    - row [ref=f39e16]:
+                      - 'cell "Username: ResAdmin Server Name: Concerto My Profile Log Off" [ref=f39e17]':
+                        - generic [ref=f39e18]:
+                          - generic [ref=f39e19]: "Username: ResAdmin"
+                          - generic [ref=f39e20]: "Server Name: Concerto"
+                          - link "My Profile" [ref=f39e21] [cursor=pointer]:
+                            - /url: usermgr/userprofile.aspx?ActualAction=First&ModifiedUser=ResAdmin
+                          - link "Log Off" [ref=f39e22] [cursor=pointer]:
+                            - /url: thankyou.aspx
+        - table [ref=f39e23]:
+          - rowgroup [ref=f39e24]:
+            - row [ref=f39e25]:
+              - cell [ref=f39e26]
+              - cell [ref=f39e27]:
+                - link "Full Kit Mgt" [ref=f39e28] [cursor=pointer]:
+                  - /url: bottomfk.aspx
+              - cell [ref=f39e29]:
+                - link "Task Mgt" [ref=f39e30] [cursor=pointer]:
+                  - /url: tubottom.aspx
+              - cell [ref=f39e31]:
+                - link "Project Mgt" [ref=f39e32] [cursor=pointer]:
+                  - /url: execbottom.aspx
+              - cell [ref=f39e33]:
+                - link "Resource Mgt" [ref=f39e34] [cursor=pointer]:
+                  - /url: resmgr/rpFrame.aspx
+              - cell [ref=f39e35]:
+                - link "Executive" [ref=f39e36] [cursor=pointer]:
+                  - /url: DashboardBottom.aspx
+              - cell [ref=f39e37]:
+                - link "Program Mgt" [ref=f39e38] [cursor=pointer]:
+                  - /url: DashboardFrame.aspx
+              - cell [ref=f39e39]:
+                - link "Pipeline Mgt" [ref=f39e40] [cursor=pointer]:
+                  - /url: PipelinePlanning/
+              - cell [ref=f39e41]:
+                - link "Metrics" [ref=f39e42] [cursor=pointer]:
+                  - /url: RulesAndResults/RulesAndResults_bottom.aspx
+              - cell [ref=f39e43]:
+                - link "Buffer Diagnostics" [ref=f39e44] [cursor=pointer]:
+                  - /url: reasoncodesbottom.aspx
+              - cell [ref=f39e45]:
+                - link "P2P" [ref=f39e46] [cursor=pointer]:
+                  - /url: p2pbottom.aspx
+              - cell [ref=f39e47]:
+                - link "Business Rules" [ref=f39e48] [cursor=pointer]:
+                  - /url: bottombr.aspx
+              - cell [ref=f39e49]:
+                - link "Admin" [active] [ref=f39e50] [cursor=pointer]:
+                  - /url: umbottom.aspx
+              - cell [ref=f39e51]
+  - generic [ref=f38e3]:
+    - iframe [ref=f38e4]
+    - iframe [ref=f38e5]:
+      - generic [ref=f41e1]:
+        - iframe [ref=f41e2]:
+          - table [ref=f57e2]:
+            - rowgroup [ref=f57e3]:
+              - row [ref=f57e4]:
+                - cell [ref=f57e5]:
+                  - table [ref=f57e6]:
+                    - rowgroup [ref=f57e7]:
+                      - row [ref=f57e8]:
+                        - cell [ref=f57e9]:
+                          - table [ref=f57e10]:
+                            - rowgroup [ref=f57e11]:
+                              - row [ref=f57e12]:
+                                - cell "System" [ref=f57e13]
+                                - cell [ref=f57e15]:
+                                  - link "Manage Users" [ref=f57e16] [cursor=pointer]:
+                                    - /url: usermgr/manageUser_frm.aspx
+                                - cell [ref=f57e17]:
+                                  - link "Manage Groups" [ref=f57e18] [cursor=pointer]:
+                                    - /url: usermgr/group_wk.aspx?ActualAction=First
+                                - cell [ref=f57e19]:
+                                  - link "Manage Teams" [ref=f57e20] [cursor=pointer]:
+                                    - /url: CentralScheduler/ManageTeams/teams_frm.aspx
+                                - cell [ref=f57e21]:
+                                  - link "QC List" [ref=f57e22] [cursor=pointer]:
+                                    - /url: QCReport/QualityChecklist.aspx?isNoSelection=1
+                                - cell [ref=f57e23]:
+                                  - link "Run BM" [ref=f57e24] [cursor=pointer]:
+                                    - /url: centralscheduler/bm.aspx
+                                - cell [ref=f57e25]:
+                                  - link "Refresh Server" [ref=f57e26] [cursor=pointer]:
+                                    - /url: centralscheduler/serverstatus.aspx
+                                - cell [ref=f57e27]:
+                                  - link "Modify Config" [ref=f57e28] [cursor=pointer]:
+                                    - /url: config/frameConfigurationTree.aspx?ReportName=UA
+                                - cell [ref=f57e29]
+                              - row [ref=f57e30]:
+                                - cell "Modify" [ref=f57e31]
+                                - cell [ref=f57e33]:
+                                  - link "Replace TMs/TPs" [ref=f57e34] [cursor=pointer]:
+                                    - /url: taskupdt/ReplaceTaskMgr_frm.aspx
+                                - cell [ref=f57e35]:
+                                  - link "RMs by Projects" [ref=f57e36] [cursor=pointer]:
+                                    - /url: CentralScheduler/CSfilterconProj.aspx?modify=resource
+                                - cell [ref=f57e37]:
+                                  - link "RMs by Resources" [ref=f57e38] [cursor=pointer]:
+                                    - /url: CentralScheduler/CSGlobal/CSeditResourceManager.aspx?modify=global
+                                - cell [ref=f57e39]:
+                                  - link "RMs Globally" [ref=f57e40] [cursor=pointer]:
+                                    - /url: CentralScheduler/CSglobal/CSEditGlobal.aspx?modify=global
+                                - cell [ref=f57e41]:
+                                  - link "Resource Assignments" [ref=f57e42] [cursor=pointer]:
+                                    - /url: CentralScheduler/preCSModifyAssignments.aspx
+                                - cell [ref=f57e43]:
+                                  - link "Resource Names" [ref=f57e44] [cursor=pointer]:
+                                    - /url: CentralScheduler/CSEditResourceName.aspx
+                                - cell [ref=f57e45]:
+                                  - link "Edit Info" [ref=f57e46] [cursor=pointer]:
+                                    - /url: ProjectManagement/pirpt.aspx
+                              - row [ref=f57e47]:
+                                - cell "Manage" [ref=f57e48]
+                                - cell [ref=f57e50]:
+                                  - link "Divisions" [ref=f57e51] [cursor=pointer]:
+                                    - /url: CentralScheduler/divMaint.aspx
+                                - cell [ref=f57e52]:
+                                  - link "Project Attributes" [ref=f57e53] [cursor=pointer]:
+                                    - /url: CentralScheduler/attribute_manage.aspx
+                                - cell [ref=f57e54]:
+                                  - link "Help Needed Items" [ref=f57e55] [cursor=pointer]:
+                                    - /url: reasoncodes/reasonCodeManage.aspx
+                                - cell [ref=f57e56]:
+                                  - link "Cancelled Reasons" [ref=f57e57] [cursor=pointer]:
+                                    - /url: reasoncodes/cancelledReasonCodeManage.aspx
+                                - cell [ref=f57e58]:
+                                  - link "DueDate Change Reasons" [ref=f57e59] [cursor=pointer]:
+                                    - /url: DueDateReasonCode/duedatereasoncodemanage.aspx
+                                - cell [ref=f57e60]:
+                                  - link "Batch Print Lists" [ref=f57e61] [cursor=pointer]:
+                                    - /url: CentralScheduler/printlist_frm.aspx
+                                - cell [ref=f57e62]:
+                                  - link "Project Update History" [ref=f57e63] [cursor=pointer]:
+                                    - /url: CentralScheduler/CSProjTracking_frm.aspx?modify=task
+                                - cell [ref=f57e64]:
+                                  - link "Remove Project Locks" [ref=f57e65] [cursor=pointer]:
+                                    - /url: CentralScheduler/CSModPrjLock.aspx
+                        - cell [ref=f57e66]:
+                          - link [ref=f57e67] [cursor=pointer]:
+                            - /url: pdf/Concerto Administrator.pdf
+                            - img "Sys Admin Help" [ref=f57e68]
+        - iframe [ref=f41e3]
