@@ -4,7 +4,7 @@ A Playwright automation project demonstrating **parallel test execution using sh
 
 ## 🚀 Live Allure Report
 
-**[View the Latest Allure Report](https://sharath-sasidaran.github.io/playwright-sharding-allure-reporter/)**
+**[View the Latest Allure Report](https://sharath-sasidharan.github.io/playwright-sharding-allure-reporter/)**
 
 ---
 
