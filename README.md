@@ -568,7 +568,7 @@ This project demonstrates practical experience with:
 
 The latest generated Allure report is available here:
 
-**https://sharath-sasidaran.github.io/playwright-sharding-allure-reporter/**
+**(https://sharath-sasidharan.github.io/playwright-sharding-allure-reporter/)**
 
 ---
 
